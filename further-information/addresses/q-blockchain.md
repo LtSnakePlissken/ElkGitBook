@@ -46,17 +46,23 @@ Not yet initialized on this chain.
 
 | Pair      | Address                                                                                                                  | ELK / day                 |
 | --------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------- |
-| QUSD-ELK  | [0xB4c40bB97f0B2B6fF94C819a8a494b4f14B72AA2](https://explorer.q.org/address/0xB4c40bB97f0B2B6fF94C819a8a494b4f14B72AA2/) | <p>122 ELK<br>489 Q</p>   |
-| QUSD-DAI  | [0x5Bd5Bf6Ac02f8aceabE27DB69C51daF7c5172909](https://explorer.q.org/address/0x5Bd5Bf6Ac02f8aceabE27DB69C51daF7c5172909/) | <p>122 ELK<br>489 Q</p>   |
-| QUSD-USDC | [0x2a6B4a23EE55C6613521C726D79f348b385Eabe9](https://explorer.q.org/address/0x2a6B4a23EE55C6613521C726D79f348b385Eabe9)  | <p>123 ELK<br>562.5 Q</p> |
-| QUSD-WBTC | [0x0fBc8f8B56f5688417D9E7e585c1F106E8b19A19](https://explorer.q.org/address/0x0fBc8f8B56f5688417D9E7e585c1F106E8b19A19)  | <p>123 ELK<br>562.5 Q</p> |
+| QUSD-ELK  | [0xB4c40bB97f0B2B6fF94C819a8a494b4f14B72AA2](https://explorer.q.org/address/0xB4c40bB97f0B2B6fF94C819a8a494b4f14B72AA2/) | <p>100 ELK<br>466 Q</p>   |
+| QUSD-DAI  | [0x8858d27a7c6c05dF3ee1f4ff425C9b786274205e](https://explorer.q.org/address/0x8858d27a7c6c05dF3ee1f4ff425C9b786274205e)  | <p>200 ELK<br>266 Q</p>   |
+| QUSD-USDC | [0x2a6B4a23EE55C6613521C726D79f348b385Eabe9](https://explorer.q.org/address/0x2a6B4a23EE55C6613521C726D79f348b385Eabe9)  | <p>100 ELK<br>466 Q</p> |
+| QUSD-WBTC | [0x0fBc8f8B56f5688417D9E7e585c1F106E8b19A19](https://explorer.q.org/address/0x0fBc8f8B56f5688417D9E7e585c1F106E8b19A19)  | <p>100 ELK<br>466 Q</p> |
 
 ### Known Liquidity Pairs
 
 | Pair      | Address                                                                                                                               |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| QUSD-ELK  | [0x8490a1ece0363dE138d39022629785e060422571](https://explorer.q.org/address/0x8490a1ece0363dE138d39022629785e060422571)               |
-| QUSD-DAI  | [0x566989560917879868cb98C5EF72d9050298c49c](https://explorer.q.org/address/0x566989560917879868cb98C5EF72d9050298c49c)               |
-| DAI-USDC  | [0xa5b62CC6956E3bc31E37ac22cF9956FFb41b5353](https://explorer.q.org/token/0xa5b62CC6956E3bc31E37ac22cF9956FFb41b5353/token-transfers) |
-| QUSD-USDC | [0x2A36b45be4C04900A5946A1B6bf991aDec93ADdE](https://explorer.q.org/address/0x2A36b45be4C04900A5946A1B6bf991aDec93ADdE)               |
-| QUSD-WBTC | [0x38d54a9a8C622CD682398C2Bef7341D08b32e4b1](https://explorer.q.org/address/0x38d54a9a8C622CD682398C2Bef7341D08b32e4b1)               |
+| QUSD-ELK  | [0x8490a1ece0363dE138d39022629785e060422571](https://explorer.q.org/token/0x8490a1ece0363dE138d39022629785e060422571)               |
+| QUSD-DAI  | [0x566989560917879868cb98C5EF72d9050298c49c](https://explorer.q.org/token/0x566989560917879868cb98C5EF72d9050298c49c)               |
+| DAI-USDC  | [0xa5b62CC6956E3bc31E37ac22cF9956FFb41b5353](https://explorer.q.org/token/0xa5b62CC6956E3bc31E37ac22cF9956FFb41b5353)               |
+| QUSD-USDC | [0x2A36b45be4C04900A5946A1B6bf991aDec93ADdE](https://explorer.q.org/token/0x2A36b45be4C04900A5946A1B6bf991aDec93ADdE)               |
+| QUSD-WBTC | [0x38d54a9a8C622CD682398C2Bef7341D08b32e4b1](https://explorer.q.org/token/0x38d54a9a8C622CD682398C2Bef7341D08b32e4b1)               |
+
+### **Discontinued Farms**
+
+| Farm Name  | Address                                                                                                                                           |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| DAI-ELK    | [0x5Bd5Bf6Ac02f8aceabE27DB69C51daF7c5172909](https://explorer.q.org/address/0x5Bd5Bf6Ac02f8aceabE27DB69C51daF7c5172909)              |

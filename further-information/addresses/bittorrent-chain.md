@@ -44,7 +44,7 @@ Elk Reservoir: [0x42424242B0c0d8A19dCD0dF362815E242586354A](https://bttcscan.com
 
 ### **Farm Addresses**
 
-**Revision 24 (August 13 - September 24, 2023)**
+**Revision 26**
 
 | Pair     | Address                                                                                                               | ELK / day |
 | -------- | --------------------------------------------------------------------------------------------------------------------- | --------- |

@@ -48,7 +48,7 @@ Elk Reservoir: [0x42424242B0c0d8A19dCD0dF362815E242586354A](https://blockscout.c
 
 ### **Farm Addresses**
 
-**Revision 24 (August 13 - September 24, 2023)**
+**Revision 26**
 
 <table><thead><tr><th width="187.33333333333331">Pair</th><th>Address</th><th>ELK / day</th></tr></thead><tbody><tr><td>XDAI-ELK</td><td><a href="https://blockscout.com/xdai/mainnet/address/0xDb59EF120FF1FA5013Bb5047e513162003034723">0xDb59EF120FF1FA5013Bb5047e513162003034723</a></td><td>85</td></tr><tr><td>GNO-ELK</td><td><a href="https://blockscout.com/xdai/mainnet/address/0xDe3f38FD15f566416Fe3941b57e1b0A50a9487e1">0xDe3f38FD15f566416Fe3941b57e1b0A50a9487e1</a></td><td>15</td></tr></tbody></table>
 

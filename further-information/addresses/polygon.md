@@ -48,7 +48,7 @@ Elk Reservoir: [0x42424242B0c0d8A19dCD0dF362815E242586354A](https://polygonscan.
 
 ### **Farm Addresses**
 
-**Revision 24 (August 13 - September 24, 2023)**
+**Revision 26**
 
 <table><thead><tr><th width="205.71006253553153">Pair</th><th width="332.98285409650816">Address</th><th>ELK / day</th></tr></thead><tbody><tr><td>MATIC-ELK</td><td><a href="https://polygonscan.com/address/0xDe3f38FD15f566416Fe3941b57e1b0A50a9487e1">0xDe3f38FD15f566416Fe3941b57e1b0A50a9487e1</a></td><td>500</td></tr><tr><td>USDC-ELK</td><td><a href="https://polygonscan.com/address/0xd7D71e4BC981B50696fa536D330bf745aE563E25">0xd7D71e4BC981B50696fa536D330bf745aE563E25</a></td><td>85</td></tr><tr><td>POLYDOGE-ELK</td><td><a href="https://polygonscan.com/address/0xDb59EF120FF1FA5013Bb5047e513162003034723">0xDb59EF120FF1FA5013Bb5047e513162003034723</a></td><td>5</td></tr><tr><td>XGTv3-ELK</td><td><a href="https://polygonscan.com/address/0x63d22c55Bd1107EAaBAB6A26e2C36Ff2b8699a87">0x63d22c55Bd1107EAaBAB6A26e2C36Ff2b8699a87</a></td><td>10</td></tr></tbody></table>
 

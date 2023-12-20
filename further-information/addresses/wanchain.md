@@ -42,7 +42,7 @@ ElkDEX Factory: [0xfbb4E52FEcc90924c79F980eb24a9794ae4aFFA4](https://www.wanscan
 
 ### **Farm Addresses**
 
-**Revision 24 (August 13 - September 24, 2023)**
+**Revision 26**
 
 | Pair    | Address                                                                                                              | ELK / day |
 | ------- | -------------------------------------------------------------------------------------------------------------------- | --------- |

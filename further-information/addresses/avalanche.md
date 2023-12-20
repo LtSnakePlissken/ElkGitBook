@@ -48,7 +48,7 @@ Elk Reservoir: [0x42424242B0c0d8A19dCD0dF362815E242586354A](https://snowtrace.io
 
 ### **Farming Addresses**
 
-**Revision 24 (August 13 - September 24, 2023)**
+**Revision 26**
 
 <table><thead><tr><th width="206.85879570604865">Pair</th><th width="321.8441526557087">Address</th><th>ELK / day</th></tr></thead><tbody><tr><td>AVAX-ELK</td><td><a href="https://snowtrace.io/address/0xDe3f38FD15f566416Fe3941b57e1b0A50a9487e1">0xDe3f38FD15f566416Fe3941b57e1b0A50a9487e1</a></td><td>500</td></tr><tr><td>USDC.e-ELK</td><td><a href="https://snowtrace.io/address/0xDb59EF120FF1FA5013Bb5047e513162003034723">0xDb59EF120FF1FA5013Bb5047e513162003034723</a></td><td>95</td></tr><tr><td>DCAU-ELK</td><td><a href="https://snowtrace.io/address/0xd7D71e4BC981B50696fa536D330bf745aE563E25">0xd7D71e4BC981B50696fa536D330bf745aE563E25</a></td><td>5</td></tr></tbody></table>
 
