@@ -32,7 +32,7 @@ BaaS developers and users are currently not charged any fees for using the servi
 
 ### Gaining Access to BaaS
 
-Eventually, upon Beta and General Availability, BaaS will be permissionless, and anyone can build a bridge in exchange for staking Moose NFTs in a special contract. However, the Alpha requires no such staking, and you may simply contact us to get access.&#x20;
+Eventually, upon Beta and General Availability, BaaS will be permissionless, and anyone can build a bridge in exchange for staking Moose NFTs in a special contract. However, the Alpha requires no such staking, and you may simply join the [ElkDev Telegram Channel](https://t.me/ElkDev) and fill the [following form](https://forms.gle/vYHUd5CoZrbiGZut7) to get early access.
 
 {% hint style="warning" %}
 Note that this access is free of charge, and we will never charge you for it or ask you to send tokens in exchange for access! If someone contacts you asking for these things, please disregard them and report the incident to us.
