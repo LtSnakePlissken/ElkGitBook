@@ -6,7 +6,7 @@ description: Contract details for existing Moose NFTS
 
 * **Ticker**: $MOOSE
 * **Address**:&#x20;
-  * [0x1fa5409d159f6b8bE52AC89531124761Df21d393](https://cchain.explorer.avax.network/address/0x1fa5409d159f6b8bE52AC89531124761Df21d393/transactions) (Avalanche)
+  * [0x1fa5409d159f6b8bE52AC89531124761Df21d393 ](https://snowtrace.io/address/0x1fa5409d159f6b8bE52AC89531124761Df21d393)(Avalanche)
   * [0xD5eF28e80439f3372F35aDa5529bc6fEA874Af14](https://polygonscan.com/address/0xD5eF28e80439f3372F35aDa5529bc6fEA874Af14) (Polygon)
   * [0xa8c3e7dc41ad9029df70b7ba5633412215346ad3](https://ftmscan.com/token/0xa8c3e7dc41ad9029df70b7ba5633412215346ad3) (Fantom)
   * [0x8fB0605716f60D09dc4CF8a91fc25B811B966d18](https://hecoinfo.com/address/0x8fb0605716f60d09dc4cf8a91fc25b811b966d18) (HECO)
