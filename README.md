@@ -19,7 +19,7 @@ Elk Finance is building a peer-to-peer network for cross-chain value transfers a
 
 The ElkNet is specifically designed for permissionless building by developers and projects. Get in touch and build on ElkNet today - create your own cross-chain solutions, trustlessly, safe and sound.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 Community projects and developers will be able to build dynamic multi-chain applications that leverage ElkNet with features such as proxy tokens and cross-chain messaging.
 

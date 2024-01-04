@@ -30,7 +30,7 @@ Farm with reduced risk at Elk with Impermanent Loss Protection! [Follow this lin
 In the example below, we’ve selected $AVAX to farm with $ELK, which would allow us to deposit into the AVAX-ELK farm on the farming page from Step 2. Let’s say we want to farm 500 $AVAX. Typing 500 into the FUSE input will tell us how many $ELK we must pair it with. In this scenario, I would want to hold at least 1000 total $AVAX available so that approximately half can be traded for $ELK for farming.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Example LP pairing of $AVAX and $ELK</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Example LP pairing of $AVAX and $ELK</p></figcaption></figure>
 
 5\. Once you have this information, it is time to swap your native chain tokens (or other tokens) for $ELK on the [ElkDEx](https://app.elk.finance/swap).
 

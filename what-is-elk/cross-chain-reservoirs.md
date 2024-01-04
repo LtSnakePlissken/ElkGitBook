@@ -10,7 +10,7 @@ Each reservoir holds in reserve the total supply of ELK tokens (\~42 million) mi
 
 The reservoir system has multiple design and security advantages over the two prevailing methods for cross-chain bridging: **burn-and-mint** and **lock-and-release**. Let’s take a look at how ElkNet stands apart:
 
-![ElkNet v2 vs. other cross-chain bridges](<../.gitbook/assets/image (5).png>)
+![ElkNet v2 vs. other cross-chain bridges](<../.gitbook/assets/image (5) (1).png>)
 
 ElkNet's reservoirs increase transparency, eliminate custodial risk, and reduce smart contract vulnerabilities all at once.
 

@@ -50,7 +50,7 @@ description: >-
 
 8\. (Optional) Choose the various blockchains from the menu in the top right (highlighted by the orange rectangle) in order to add each one to your list of supported EVM blockchains. Verify that these details are correct and click “Approve” to add each desired blockchain.
 
-![](<../../.gitbook/assets/image (13).png>)![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (13) (1).png>)![](<../../.gitbook/assets/image (4) (1).png>)
 
 &#x20;
 

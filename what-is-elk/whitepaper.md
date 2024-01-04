@@ -30,7 +30,7 @@ Simply put, Elk Finance aims to connect the many new and existing blockchains in
 
 ElkNet v2 vs Traditional Bridges:
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>How ElkNet Outperforms Traditional Bridges</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>How ElkNet Outperforms Traditional Bridges</p></figcaption></figure>
 
 ElkNet's reservoirs increase transparency, eliminate custodial risk, and reduce smart contract vulnerabilities, all at once. The reservoir contracts allow any party to query the blockchain or check the relevant explorer to see the balance of the reservoirs on all networks. Since there are no bridge tokens locked on either end, individual users are not trusting a custodial bridge operator to secure their funds. Lastly, smart contract vulnerabilities such as double spends are impossible with ElkNet, as any given cross-chain transfer passes through both the Bifrost and reservoir contracts on both the origin and destination chain.
 

@@ -22,6 +22,7 @@
 
 ## User Tutorials and Help
 
+* [Deploy a Bridge with BaaS (Alpha)](user-tutorials-and-help/deploy-a-bridge-with-baas-alpha.md)
 * [Setting up a wallet](user-tutorials-and-help/wallets/README.md)
   * [Metamask](user-tutorials-and-help/wallets/metamask.md)
   * [Brave](user-tutorials-and-help/wallets/brave.md)
