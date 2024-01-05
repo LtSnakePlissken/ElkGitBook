@@ -46,10 +46,8 @@ Not yet initialized on this chain.
 
 | Pair      | Address                                                                                                                  | ELK / day                 |
 | --------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------- |
-| QUSD-ELK  | [0xB4c40bB97f0B2B6fF94C819a8a494b4f14B72AA2](https://explorer.q.org/address/0xB4c40bB97f0B2B6fF94C819a8a494b4f14B72AA2/) | <p>100 ELK<br>466 Q</p>   |
-| QUSD-DAI  | [0x8858d27a7c6c05dF3ee1f4ff425C9b786274205e](https://explorer.q.org/address/0x8858d27a7c6c05dF3ee1f4ff425C9b786274205e)  | <p>200 ELK<br>266 Q</p>   |
-| QUSD-USDC | [0x2a6B4a23EE55C6613521C726D79f348b385Eabe9](https://explorer.q.org/address/0x2a6B4a23EE55C6613521C726D79f348b385Eabe9)  | <p>100 ELK<br>466 Q</p> |
-| QUSD-WBTC | [0x0fBc8f8B56f5688417D9E7e585c1F106E8b19A19](https://explorer.q.org/address/0x0fBc8f8B56f5688417D9E7e585c1F106E8b19A19)  | <p>100 ELK<br>466 Q</p> |
+| QUSD-ELK  | [0xB4c40bB97f0B2B6fF94C819a8a494b4f14B72AA2](https://explorer.q.org/address/0xB4c40bB97f0B2B6fF94C819a8a494b4f14B72AA2/) | <p>53 ELK<br>143 Q</p>    |
+| QUSD-USDC | [0x2a6B4a23EE55C6613521C726D79f348b385Eabe9](https://explorer.q.org/address/0x2a6B4a23EE55C6613521C726D79f348b385Eabe9)  | <p>53 ELK<br>143 Q</p>   |
 
 ### Known Liquidity Pairs
 
@@ -65,4 +63,6 @@ Not yet initialized on this chain.
 
 | Farm Name  | Address                                                                                                                                           |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| DAI-ELK    | [0x5Bd5Bf6Ac02f8aceabE27DB69C51daF7c5172909](https://explorer.q.org/address/0x5Bd5Bf6Ac02f8aceabE27DB69C51daF7c5172909)              |
+| QUSD-DAI(V1)| [0x5Bd5Bf6Ac02f8aceabE27DB69C51daF7c5172909](https://explorer.q.org/address/0x5Bd5Bf6Ac02f8aceabE27DB69C51daF7c5172909)|
+| QUSD-WBTC   | [0x0fBc8f8B56f5688417D9E7e585c1F106E8b19A19](https://explorer.q.org/address/0x0fBc8f8B56f5688417D9E7e585c1F106E8b19A19)|
+| QUSD-DAI(V2)| [0x8858d27a7c6c05dF3ee1f4ff425C9b786274205e](https://explorer.q.org/address/0x8858d27a7c6c05dF3ee1f4ff425C9b786274205e)|
