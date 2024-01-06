@@ -10,15 +10,13 @@ See here for the audit of our FaaS contracts:
 FaaS Audit by BiPole
 {% endfile %}
 
-
-
 Below you will find links to the BTTC Testnet FaaS contracts as well as a guide to test out our beta FaaS contracts on BTTC Testnet. This section will be updated for all chains as all FaaS features roll out. Testing the FaaS UI will be possible through the Farm page at [https://elkdex-beta.herokuapp.com/farms](https://elkdex-beta.herokuapp.com/farms). Please head to this and follow the prompts to test out farm creation/deposits.
 
 #### Requirements:
 
 * Native tokens for gas fee. Click [here](https://testfaucet.bt.io/#/) for a link to a faucet to obtain free testnet BTT
-* FaaS fee (currently 100 ELK on testnet) in wallet. &#x20;
-  * Add BTTC Testnet to Metamask and use the [faucet](https://testnet.bttcscan.com/address/0xedcf2f457f3ad2bb50b6dc5e70daf29c57b0c00c#writeContract).  Connect your wallet by clicking "Connect to Web3" and approve the BTTC Testnet to be added to Metamask if you have not previously added it. The [faucet](https://testnet.bttcscan.com/address/0xedcf2f457f3ad2bb50b6dc5e70daf29c57b0c00c#writeContract) will allow you to obtain ELK for testing.
+* FaaS fee (currently 100 ELK on testnet) in wallet.
+  * Add BTTC Testnet to Metamask and use the [faucet](https://testnet.bttcscan.com/address/0xedcf2f457f3ad2bb50b6dc5e70daf29c57b0c00c#writeContract). Connect your wallet by clicking "Connect to Web3" and approve the BTTC Testnet to be added to Metamask if you have not previously added it. The [faucet](https://testnet.bttcscan.com/address/0xedcf2f457f3ad2bb50b6dc5e70daf29c57b0c00c#writeContract) will allow you to obtain ELK for testing.
 * A liquidity pair (ELP tokens) consisting of 2 tokens made using the [pool page](https://elkdex-beta.herokuapp.com/add/BTT/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE)
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
@@ -32,50 +30,36 @@ _\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*_
 1. Navigate to [https://elkdex-beta.herokuapp.com/farms](https://elkdex-beta.herokuapp.com/farms) and connect your wallet.
 2. Click "Create Farm".
 
-<figure><img src="../.gitbook/assets/image (42).png" alt="" width="377"><figcaption><p>Click "Create Farm"</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (55).png" alt="" width="377"><figcaption><p>Click "Create Farm"</p></figcaption></figure>
 
 3.  Choose the two tokens for farm creation.
 
-    <figure><img src="../.gitbook/assets/image (35).png" alt="" width="356"><figcaption><p>If you have not yet created a pool (ELP), clicking next here will direct you to create it</p></figcaption></figure>
-
-
+    <figure><img src="../.gitbook/assets/image (48).png" alt="" width="356"><figcaption><p>If you have not yet created a pool (ELP), clicking next here will direct you to create it</p></figcaption></figure>
 4.  Select the token(s) you'd like to reward to farmers. Click "+ Add" to reward additional tokens.
 
-    <figure><img src="../.gitbook/assets/image (46).png" alt="" width="349"><figcaption><p>"Farming Period" denotes how long the farm will remain active</p></figcaption></figure>
-
-
+    <figure><img src="../.gitbook/assets/image (59).png" alt="" width="349"><figcaption><p>"Farming Period" denotes how long the farm will remain active</p></figcaption></figure>
 5.  Select the deposit/withdrawal fees that users will pay to enter the farm.
 
-    <figure><img src="../.gitbook/assets/image (43).png" alt="" width="356"><figcaption><p>Toggle on a withdrawal fee if desired</p></figcaption></figure>
-
-
+    <figure><img src="../.gitbook/assets/image (56).png" alt="" width="356"><figcaption><p>Toggle on a withdrawal fee if desired</p></figcaption></figure>
 6.  Set withdrawal fees, if desired.
 
-    <figure><img src="../.gitbook/assets/image (40).png" alt="" width="320"><figcaption><p>Withdrawal fees must have decreasing fees and increasing days. In the example below, users have a 1% fee of deposited ELP for withdrawal before 1 day, then a 0.5% fee for withdrawal before 2 days, and a 0% withdrawal fee after 3 days.</p></figcaption></figure>
-
-
+    <figure><img src="../.gitbook/assets/image (53).png" alt="" width="320"><figcaption><p>Withdrawal fees must have decreasing fees and increasing days. In the example below, users have a 1% fee of deposited ELP for withdrawal before 1 day, then a 0.5% fee for withdrawal before 2 days, and a 0% withdrawal fee after 3 days.</p></figcaption></figure>
 7.  Choose a date to start the farm, or start it now.
 
-    <figure><img src="../.gitbook/assets/image (36).png" alt="" width="356"><figcaption></figcaption></figure>
-
-
+    <figure><img src="../.gitbook/assets/image (49).png" alt="" width="356"><figcaption></figcaption></figure>
 8.  Confirm your farm details and deploy.
 
-    <figure><img src="../.gitbook/assets/image (45).png" alt="" width="361"><figcaption><p>Approve and deploy farm! Ensure you have 1000 ELK to pay the deployment fee</p></figcaption></figure>
-
-
+    <figure><img src="../.gitbook/assets/image (58).png" alt="" width="361"><figcaption><p>Approve and deploy farm! Ensure you have 1000 ELK to pay the deployment fee</p></figcaption></figure>
 9.  Add reward tokens to the farm by entering the amount of each and clicking "Fund". Approve this transaction. Click "Start Farm" and approve this transaction as well.
 
-    <figure><img src="../.gitbook/assets/image (44).png" alt="" width="359"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (57).png" alt="" width="359"><figcaption></figcaption></figure>
+10. That's it! Your farm now appears under the "[My Farms](https://elkdex-beta.herokuapp.com/farms/my)" tab on the "Farms" page.
 
-
-10. &#x20;That's it! Your farm now appears under the "[My Farms](https://elkdex-beta.herokuapp.com/farms/my)" tab on the "Farms" page.
-
-    <figure><img src="../.gitbook/assets/image (34).png" alt="" width="380"><figcaption><p>Users can find your farm under the "All Farms Page"</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (47).png" alt="" width="380"><figcaption><p>Users can find your farm under the "All Farms Page"</p></figcaption></figure>
 
 ## Adding BTT Testnet
 
-BitTorrent Chain Testnet:&#x20;
+BitTorrent Chain Testnet:
 
 Network URL: https://pre-rpc.bt.io/
 
@@ -91,9 +75,9 @@ Block explorer URL: https://testnet.bttcscan.com/
 
 Oracle:[ 0x8D09759d54a17aa31987a68F24fAE2a4C41A3203](https://bttcscan.com/address/0x8D09759d54a17aa31987a68F24fAE2a4C41A3203#writeContract)
 
-FarmFactoryHelper: [0x40d4014b60dd73c7087d39b895aad2a698578175 ](https://bttcscan.com/address/0x40d4014b60dd73c7087d39b895aad2a698578175#code)
+FarmFactoryHelper: [0x40d4014b60dd73c7087d39b895aad2a698578175](https://bttcscan.com/address/0x40d4014b60dd73c7087d39b895aad2a698578175#code)
 
-FarmFactoryHelperPermissioned: [0x8369a8ece09312166096e59cdf7451ffa7899701 ](https://bttcscan.com/address/0x8369a8ece09312166096e59cdf7451ffa7899701#code)
+FarmFactoryHelperPermissioned: [0x8369a8ece09312166096e59cdf7451ffa7899701](https://bttcscan.com/address/0x8369a8ece09312166096e59cdf7451ffa7899701#code)
 
 FarmFactory: [0xe2e239fc02fa9bd61ec12eee9f117482544852e2](https://bttcscan.com/address/0xe2e239fc02fa9bd61ec12eee9f117482544852e2#code)
 
@@ -142,7 +126,7 @@ You can also find definitions of various contract functions below. The same inst
 3. Create Elk Liquidity Pool (ELP) using Router Contract (if pair has not already been created) ([https://testnet.bttcscan.com/address/0x4360358F5E7A09b4c7690e50EA7e4D498c6D0671#writeContract](https://testnet.bttcscan.com/address/0x4360358F5E7A09b4c7690e50EA7e4D498c6D0671#writeContract))
    * Follow these steps to create a new LP token using the addLiquidity or addLiquidity ETH (to add a BTT pair) function:
    * Ensure that you have enough of the two tokens in your wallet to provide liquidity and that you are [connected to the BTTC Testnet](https://doc.bt.io/docs/wallet) and have enough BTT for gas.
-   * Approve the ElkRouter contract to spend both tokens (not necessary for BTT, just other tokens).&#x20;
+   * Approve the ElkRouter contract to spend both tokens (not necessary for BTT, just other tokens).
    * You can do this by calling the approve function on each token contract by looking it up on the [BTTC Testnet Explorer](https://testnet.bttcscan.com/) after connecting your wallet to the BTTC Testnet Explorer by clicking “connect to web3”, going to “contract”, then “write contract” and passing the ElkRouter contract address (0xc06348AEE3f3E92eE452816E0D3F25C919F6fB04) and the desired amount (in Wei) as arguments and hitting “write”.
    * Navigate to the testnet [Elk Router Contract](https://testnet.bttcscan.com/address/0x4360358F5E7A09b4c7690e50EA7e4D498c6D0671#writeContract) on the testnet explorer
    * Call the addLiquidity function on the ElkRouter contract with the following parameters:
@@ -190,7 +174,7 @@ The process is the same with createNewPermissonedRewards but this type of farm a
    * If fees are not desired, enter any 3 values in descending order \[3,2,1] and set \_withdrawalFeeSchedule to \[1,2,3]
 10. \_withdrawalFeeSchedule: List of time in seconds
     * A schedule to apply to \_withdrawalFeesBps
-    * Example: \[604800,1209600,1814400] = 20% fee if withdrawal is within 7 days, 10% between 7-14 days, and 0% after 21 days. The code checks if the stake time is between the blocktime + the schedule seconds. This would make it 20% for 7 days, 10% for 14 days, and then 0% after that.  If one were to add 5% as the last fee amount, it would apply for 14-21 days and then be 0 after that.
+    * Example: \[604800,1209600,1814400] = 20% fee if withdrawal is within 7 days, 10% between 7-14 days, and 0% after 21 days. The code checks if the stake time is between the blocktime + the schedule seconds. This would make it 20% for 7 days, 10% for 14 days, and then 0% after that. If one were to add 5% as the last fee amount, it would apply for 14-21 days and then be 0 after that.
     * If no fee is desired, set this to \[1,2,3]
 11. Press Write
     * The transaction will output an event that contains the address of the new FarmingRewards contract. Check the logs tab of the transaction in the explorer, and look for the 3rd entry (i.e., labeled “2”)

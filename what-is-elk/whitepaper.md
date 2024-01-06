@@ -30,7 +30,7 @@ Simply put, Elk Finance aims to connect the many new and existing blockchains in
 
 ElkNet v2 vs Traditional Bridges:
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>How ElkNet Outperforms Traditional Bridges</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>How ElkNet Outperforms Traditional Bridges</p></figcaption></figure>
 
 ElkNet's reservoirs increase transparency, eliminate custodial risk, and reduce smart contract vulnerabilities, all at once. The reservoir contracts allow any party to query the blockchain or check the relevant explorer to see the balance of the reservoirs on all networks. Since there are no bridge tokens locked on either end, individual users are not trusting a custodial bridge operator to secure their funds. Lastly, smart contract vulnerabilities such as double spends are impossible with ElkNet, as any given cross-chain transfer passes through both the Bifrost and reservoir contracts on both the origin and destination chain.
 
@@ -152,11 +152,11 @@ The figure below shows the current distribution of ELK Tokens
 
 <figure><img src="../.gitbook/assets/ElkTokenomics2023.png" alt=""><figcaption><p>ELK Tokenomics</p></figcaption></figure>
 
-### Exploit Insurance Contract <a href="#2583" id="2583"></a>
+### Exploit Insurance Contract <a href="#id-2583" id="id-2583"></a>
 
 This contract stores **10M $ELK** to be used for insurance against any unforeseen exploits of the ElkNet. It is subject to Elk governance. The proposed reserve is equivalent to more than 3 days of transfers based on current daily ElkNet transfers limits per chain (this assumes that a malicious exploit would be discovered in three days). In the event of a double-spend attack, ELK will be burned from this fund to ensure that the circulation of ELK never reaches more than 42M. In the event of attacks involving other tokens interacting with ElkNet, these funds can cover the losses incurred by third parties.
 
-### Elk Service Company Treasury <a href="#9f1e" id="9f1e"></a>
+### Elk Service Company Treasury <a href="#id-9f1e" id="id-9f1e"></a>
 
 This treasury contract is controlled by the Elk Service Company multi-sig. The contract releases a maximum of 10k ELK per week up to a total of **5M ELK**. These funds are intended to cover the development and operating expenses of the Elk Service Company in promoting the growth of Elk. Claims will not begin until the Elk Service Company becomes an incorporated entity.
 
@@ -168,7 +168,7 @@ This contract releases a maximum of 1k ELK per day up to a maximum of **2M ELK**
 
 A unified contract storing emissions reserves until farming ends. This contract holds the emissions to be released according to the determined schedule. The team maintains responsibility for allocating emissions to the farms in the best interest of the project until the establishment of a full fledged governance body.
 
-### Community Treasury <a href="#40b3" id="40b3"></a>
+### Community Treasury <a href="#id-40b3" id="id-40b3"></a>
 
 The Community Treasury will be controlled by Elk governance. The contract will place a hard cap of **2M ELK** to be spent by governance per year on proposals achieving a simple voting majority once governance is fully implemented.
 
@@ -234,5 +234,4 @@ Demand remains for secure, trustless, customizable, efficient, and cost-effectiv
 [https://www.bloomberg.com/news/articles/2022-06-24/crypto-bridge-horizon-is-hacked-for-100-million](https://www.bloomberg.com/news/articles/2022-06-24/crypto-bridge-horizon-is-hacked-for-100-million);\
 [https://www.wired.com/story/blockchain-network-bridge-hacks/](https://www.wired.com/story/blockchain-network-bridge-hacks/); [https://www.bloomberg.com/news/articles/2022-03-30/crypto-bridge-hacks-reach-over-1-billion-in-little-over-a-year#xj4y7vzkg](https://www.bloomberg.com/news/articles/2022-03-30/crypto-bridge-hacks-reach-over-1-billion-in-little-over-a-year#xj4y7vzkg).\
 [https://cointelegraph.com/news/report-half-of-all-defi-exploits-are-cross-bridge-hacks\
-](https://cointelegraph.com/news/report-half-of-all-defi-exploits-are-cross-bridge-hacks)[https://debridges.com/](https://debridges.com/)&#x20;
-
+](https://cointelegraph.com/news/report-half-of-all-defi-exploits-are-cross-bridge-hacks)[https://debridges.com/](https://debridges.com/)
