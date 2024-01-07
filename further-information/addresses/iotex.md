@@ -20,27 +20,60 @@ Use our API to easily query our farms and liquidity pairs:
 
 ### ElkNet Bifrost Smart Contract
 
-0xb1F120578A7589FD9336315C4dF7d5A5d90173A8 \[[Avalanche](https://snowtrace.io/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Polygon](https://polygonscan.com/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Fantom](https://ftmscan.com/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Huobi ECO](https://hecoinfo.com/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Gnosis (formerly xDAI)](https://blockscout.com/xdai/mainnet/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[BNB Chain](https://bscscan.com/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Kucoin](https://explorer.kcc.io/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Harmony](https://explorer.harmony.one/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[OEC](https://www.oklink.com/okexchain/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Hoo](https://hooscan.com/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Elastos](https://esc.elastos.io/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Moonriver](https://blockscout.moonriver.moonbeam.network/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Cronos](https://cronos.crypto.org/explorer/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Telos](https://www.teloscan.io/evm/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Fuse](https://explorer.fuse.io/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[IoTeX](https://iotexscout.io/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Ethereum](https://etherscan.io/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Arbitrum](https://arbiscan.io/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Optimism](https://optimistic.etherscan.io/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Kava](https://explorer.kava.io/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[BTTC](https://bttcscan.com/address/0xb1f120578a7589fd9336315c4df7d5a5d90173a8)] \[[Bitgert](https://brisescan.com/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Metis](https://andromeda-explorer.metis.io/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Wan](https://www.wanscan.org/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Neon](https://neonscan.org/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Astar](https://blockscout.com/astar/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Linea](https://explorer.linea.build/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Base](https://basescan.org/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Velas](https://evmexplorer.velas.com/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Q](https://explorer.q.org/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)]
+0xb1F120578A7589FD9336315C4dF7d5A5d90173A8 \[[Avalanche](https://snowtrace.io/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Polygon](https://polygonscan.com/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Fantom](https://ftmscan.com/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Huobi ECO](https://hecoinfo.com/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Gnosis (formerly xDAI)](https://blockscout.com/xdai/mainnet/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[BNB Chain](https://bscscan.com/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Kucoin](https://explorer.kcc.io/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Harmony](https://explorer.harmony.one/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[OEC](https://www.oklink.com/oktc/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Hoo](https://hooscan.com/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Elastos](https://esc.elastos.io/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Moonriver](https://blockscout.moonriver.moonbeam.network/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Cronos](https://cronos.org/explorer/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Telos](https://www.teloscan.io/evm/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Fuse](https://explorer.fuse.io/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[IoTeX](https://iotexscout.io/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Ethereum](https://etherscan.io/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Arbitrum](https://arbiscan.io/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Optimism](https://optimistic.etherscan.io/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Kava](https://explorer.kava.io/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[BTTC](https://bttcscan.com/address/0xb1f120578a7589fd9336315c4df7d5a5d90173a8)] \[[Bitgert](https://brisescan.com/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Metis](https://andromeda-explorer.metis.io/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Wan](https://www.wanscan.org/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Neon](https://neonscan.org/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Astar](https://blockscout.com/astar/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Linea](https://explorer.linea.build/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Base](https://basescan.org/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Velas](https://evmexplorer.velas.com/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)] \[[Q](https://explorer.q.org/address/0xb1F120578A7589FD9336315C4dF7d5A5d90173A8)]
 
 ### ElkNet Reservoir Contract
 
-0x42424242B0c0d8A19dCD0dF362815E242586354A \[[Avalanche](https://snowtrace.io/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Polygon](https://polygonscan.com/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Fantom](https://ftmscan.com/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Huobi ECO](https://hecoinfo.com/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Gnosis (formerly xDAI)](https://blockscout.com/xdai/mainnet/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[BNB Chain](https://bscscan.com/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Kucoin](https://explorer.kcc.io/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Harmony](https://explorer.harmony.one/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[OEC](https://www.oklink.com/okexchain/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Hoo](https://hooscan.com/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Elastos](https://esc.elastos.io/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Moonriver](https://blockscout.moonriver.moonbeam.network/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Cronos](https://cronos.crypto.org/explorer/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Telos](https://www.teloscan.io/evm/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Fuse](https://explorer.fuse.io/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[IoTeX](https://iotexscout.io/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Ethereum](https://etherscan.io/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Arbitrum](https://arbiscan.io/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Optimism](https://optimistic.etherscan.io/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Kava](https://explorer.kava.io/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[BTTC](https://bttcscan.com/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Bitgert](https://brisescan.com/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Metis](https://andromeda-explorer.metis.io/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Wan](https://www.wanscan.org/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Neon](https://neonscan.org/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Astar](https://blockscout.com/astar/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Linea](https://explorer.linea.build/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Base](https://basescan.org/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Velas](https://evmexplorer.velas.com/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Q](https://explorer.q.org/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)]
+0x42424242B0c0d8A19dCD0dF362815E242586354A \[[Avalanche](https://snowtrace.io/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Polygon](https://polygonscan.com/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Fantom](https://ftmscan.com/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Huobi ECO](https://hecoinfo.com/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Gnosis (formerly xDAI)](https://blockscout.com/xdai/mainnet/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[BNB Chain](https://bscscan.com/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Kucoin](https://explorer.kcc.io/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Harmony](https://explorer.harmony.one/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[OEC](https://www.oklink.com/oktc/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Hoo](https://hooscan.com/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Elastos](https://esc.elastos.io/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Moonriver](https://blockscout.moonriver.moonbeam.network/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Cronos](https://cronos.org/explorer/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Telos](https://www.teloscan.io/evm/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Fuse](https://explorer.fuse.io/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[IoTeX](https://iotexscout.io/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Ethereum](https://etherscan.io/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Arbitrum](https://arbiscan.io/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Optimism](https://optimistic.etherscan.io/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Kava](https://explorer.kava.io/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[BTTC](https://bttcscan.com/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Bitgert](https://brisescan.com/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Metis](https://andromeda-explorer.metis.io/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Wan](https://www.wanscan.org/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Neon](https://neonscan.org/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Astar](https://blockscout.com/astar/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Linea](https://explorer.linea.build/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Base](https://basescan.org/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Velas](https://evmexplorer.velas.com/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Q](https://explorer.q.org/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)]
 
 ### IoTeX
 
 #### ElkDEX Smart Contracts
 
-ElkDEX Router: [0xAEB801BA5Cf1233B2a3765890D4f8f8C8141Fa43](https://iotexscan.io/address/0xAEB801BA5Cf1233B2a3765890D4f8f8C8141Fa43)
+## V3 Contract Addresses
 
-ElkDEX Factory: [0xF96bE66DA0b9bC9DFD849827b4acfA7e8a6F3C42](https://iotexscan.io/address/0xF96bE66DA0b9bC9DFD849827b4acfA7e8a6F3C42)
+ElkDEX V3 Core Factory: [0xE8234393E0Ffe32785BD78366be2FfFcE51795b9](https://iotexscan.io/address/0xE8234393E0Ffe32785BD78366be2FfFcE51795b9?format=0x)
 
-Elk Reservoir: [0x42424242B0c0d8A19dCD0dF362815E242586354A](https://iotexscan.io/address/0x42424242B0c0d8A19dCD0dF362815E242586354A?format=0x)
+Multicall2: [0x352D8F40cD62Ffd82d98210FFE2d75584387de05](https://iotexscan.io/address/0x352D8F40cD62Ffd82d98210FFE2d75584387de05?format=0x)
+
+Tick Lens: [0x793eaB1953e650C422C92ccc8B7e36Cce62bCd04](https://iotexscan.io/address/0x793eaB1953e650C422C92ccc8B7e36Cce62bCd04?format=0x)
+
+Quoter V2: [0x5F01387F0C5c1AeD7b86eDD9DA3932984e06999d](https://iotexscan.io/address/0x5F01387F0C5c1AeD7b86eDD9DA3932984e06999d?format=0x)
+
+Quoter: [0x87afFD43eD21B0D73B080Fd5d0b90A46F10A80B7](https://iotexscan.io/address/0x87afFD43eD21B0D73B080Fd5d0b90A46F10A80B7?format=0x)
+
+Proxy Admin: [0xe988B3d66a76d022bEcC75516E1997690D51855f](https://iotexscan.io/address/0xe988B3d66a76d022bEcC75516E1997690D51855f?format=0x)
+
+NFT Descriptor Library V1.3.0: [0xA25AfE3E1f9f1B317b8C1C277cA59D700EEFA8C5](https://iotexscan.io/address/0xA25AfE3E1f9f1B317b8C1C277cA59D700EEFA8C5?format=0x)
+
+Nonfungible Token Position Descriptor V1.3.0: [0x26BaB438d10ac10a5f1747a53Ff1Fa3AF984E68f](https://iotexscan.io/address/0x26BaB438d10ac10a5f1747a53Ff1Fa3AF984E68f?format=0x)
+
+Descriptor Proxy: [0xCA4BD724825A228e49257b3e4E1B5637416d830A](https://iotexscan.io/address/0xCA4BD724825A228e49257b3e4E1B5637416d830A?format=0x)
+
+Nonfungible Token Position Manager: [0xBd5bf0Dcc6c61760baAa536d0D17B1d2e358CC27](https://iotexscan.io/address/0xBd5bf0Dcc6c61760baAa536d0D17B1d2e358CC27?format=0x)
+
+ElkDEX V3 Migrator: [0xe88380Fc1D221916c2F3593eAd78f5316F971D95](https://iotexscan.io/address/0xe88380Fc1D221916c2F3593eAd78f5316F971D95?format=0x)
+
+Swap Router: [0xb2A8B9AcC739FCcf52A382452DCfCEF2338d731B](https://iotexscan.io/address/0xb2A8B9AcC739FCcf52A382452DCfCEF2338d731B?format=0x)
+
+Swap Router 02: [0x967750742ab55B2e15c100093497b452Aef97b25](https://iotexscan.io/address/0x967750742ab55B2e15c100093497b452Aef97b25?format=0x)
+
+## V2 Contract Addresses
+
+ElkDEX Router: [0xAEB801BA5Cf1233B2a3765890D4f8f8C8141Fa43](https://iotexscan.io/address/0xAEB801BA5Cf1233B2a3765890D4f8f8C8141Fa43?format=0x)
+
+ElkDEX Factory: [0xF96bE66DA0b9bC9DFD849827b4acfA7e8a6F3C42](https://iotexscan.io/address/0xF96bE66DA0b9bC9DFD849827b4acfA7e8a6F3C42?format=0x)
+
+Farms-as-a-Service Farm Factory: [0xc3D712E6253E33Ba3CF361d00Ba5382Da4d30fb6](https://iotexscan.io/address/0xc3D712E6253E33Ba3CF361d00Ba5382Da4d30fb6?format=0x)
+
+Single-Stake-as-a-Service Factory: [0x0b921fc8b84656157f5b7ddbf385205d1873a72c](https://iotexscan.io/address/0x0b921fc8b84656157f5b7ddbf385205d1873a72c?format=0x)
+
 
 ### Staking Pool
 
-**Single ELK Staking Pool**
+**ELK Single Stake Pool**
 
-[0x57A1CE7686F3B2AB61F5191c76361F985b57E0fa](https://iotexscan.io/address/0x57A1CE7686F3B2AB61F5191c76361F985b57E0fa), 10 ELK / day
+[0x57A1CE7686F3B2AB61F5191c76361F985b57E0fa](https://iotexscan.io/address/0x57A1CE7686F3B2AB61F5191c76361F985b57E0fa?format=0x), 10 ELK / day
 
 
 
@@ -50,19 +83,19 @@ Elk Reservoir: [0x42424242B0c0d8A19dCD0dF362815E242586354A](https://iotexscan.io
 
 | Pair     | Address                                                                                                               | ELK / day |
 | -------- | --------------------------------------------------------------------------------------------------------------------- | --------- |
-| IOTX-ELK | [0xd7D71e4BC981B50696fa536D330bf745aE563E25](https://iotexscan.io/address/0xd7D71e4BC981B50696fa536D330bf745aE563E25) | 25        |
-| USDC-ELK | [0xDb59EF120FF1FA5013Bb5047e513162003034723](https://iotexscan.io/address/0xDb59EF120FF1FA5013Bb5047e513162003034723) | 5         |
+| IOTX-ELK | [0xd7D71e4BC981B50696fa536D330bf745aE563E25](https://iotexscan.io/address/0xd7D71e4BC981B50696fa536D330bf745aE563E25?format=0x) | 25        |
+| USDC-ELK | [0xDb59EF120FF1FA5013Bb5047e513162003034723](https://iotexscan.io/address/0xDb59EF120FF1FA5013Bb5047e513162003034723?format=0x) | 5         |
 
 ### **Known Liquidity Pairs**
 
 | Pair     | Address                                                                                                                             |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| IOTX-ELK | [0xAB12Af9aC1Bb001Fe1e5C8453AC82dF50EFE809A](https://iotexscan.io/token/0xAB12Af9aC1Bb001Fe1e5C8453AC82dF50EFE809A#token\_transfer) |
-| USDC-ELK | [0xD2eB42Acb2fAC73c70d17e54C48abC979f0be809](https://iotexscan.io/token/0xD2eB42Acb2fAC73c70d17e54C48abC979f0be809)                 |
-| METX-ELK | [0xa30DBA9FF136079B4CD72004adCbCC5996479eEA](https://iotexscan.io/token/0xa30DBA9FF136079B4CD72004adCbCC5996479eEA)                 |
+| IOTX-ELK | [0xAB12Af9aC1Bb001Fe1e5C8453AC82dF50EFE809A](https://iotexscan.io/token/0xAB12Af9aC1Bb001Fe1e5C8453AC82dF50EFE809A?format=0x) |
+| USDC-ELK | [0xD2eB42Acb2fAC73c70d17e54C48abC979f0be809](https://iotexscan.io/token/0xD2eB42Acb2fAC73c70d17e54C48abC979f0be809?format=0x)                 |
+| METX-ELK | [0xa30DBA9FF136079B4CD72004adCbCC5996479eEA](https://iotexscan.io/token/0xa30DBA9FF136079B4CD72004adCbCC5996479eEA?format=0x)                 |
 
 ### **Discontinued Farm Addresses**
 
 | Farm Name | Address                                                                                                               |
 | --------- | --------------------------------------------------------------------------------------------------------------------- |
-| METX-ELK  | [0x8c3483DF8Fa193A18C0eDa71d2F7114381ea28C7](https://iotexscan.io/address/0x8c3483DF8Fa193A18C0eDa71d2F7114381ea28C7) |
+| METX-ELK  | [0x8c3483DF8Fa193A18C0eDa71d2F7114381ea28C7](https://iotexscan.io/address/0x8c3483DF8Fa193A18C0eDa71d2F7114381ea28C7?format=0x) |

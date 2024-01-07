@@ -34,13 +34,11 @@ ElkDEX Router: [0xbF9Bebfd6954985E41Fed497a5421B3B5B0f66AB](https://esc.elastos.
 
 ElkDEX Factory: [0x440a1B8b8e968D6765D41E6b92DF3cBb0e9D2b1e](https://esc.elastos.io/address/0x440a1B8b8e968D6765D41E6b92DF3cBb0e9D2b1e/transactions)
 
-Elk Reservoir: [0x42424242B0c0d8A19dCD0dF362815E242586354A](https://esc.elastos.io/address/0x42424242B0c0d8A19dCD0dF362815E242586354A/transactions)
-
 
 
 ### Staking Pools
 
-**Single ELK Staking Pool**
+**ELK Single Stake Pool**
 
 [0x57A1CE7686F3B2AB61F5191c76361F985b57E0fa](https://esc.elastos.io/address/0x57A1CE7686F3B2AB61F5191c76361F985b57E0fa/transactions), 5 ELK / day
 
