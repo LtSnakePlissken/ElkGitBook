@@ -16,7 +16,7 @@ Currently, BaaS is available on the following testnets:
 * Optimism Testnet
 * Ethereum Ropsten
 
-Contract Addresses on Mainnet:
+BaaS Contract Addresses on Testnets above:
 
 * BaasConfig: 0x58986C808Bd0B904B60ADFcdD29586833Db6C0b9
 * Bifrost: 0x59f607fe24Dc6E4e154067Cb5768cE2f6cdb2d63
@@ -30,7 +30,7 @@ BaaS is available on the following mainnets:
 * Linea
 * Q (Coming Soon)
 
-Contract Addresses on Mainnet:
+Contract Addresses on Mainnets above:
 
 * BaasConfig: 0x87187D96Bf51e9FB577e804BCE5747d7a81486C9
 * Bifrost: 0x153eE9BD2F69A0037e75b30e34be5E86Fb1E693a
