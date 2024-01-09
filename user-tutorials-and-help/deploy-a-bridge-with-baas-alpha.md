@@ -8,14 +8,6 @@ description: >-
 
 Here’s a step-by-step guide for launching your own Reservoir style bridge using ElkNet’s BaaS. This means that the deployed bridge will use a reservoir type system, just like the ELK token. We will use the Avalanche C-Chain and Polygon Chain Mainnets in this guide. Feel free to use any of the chains listed below, however. If you would like all contract addresses to be the same on multiple chains, it is very advisable to use a fresh wallet/address and do the same amount of transactions in the same order on all blockchains so the nonces stay the same. It is recommended that you set up your bridge on testnets first if you are concerned about gas.
 
-Contract Addresses:
-
-BaasConfig: 0x87187D96Bf51e9FB577e804BCE5747d7a81486C9
-
-Bifrost: 0x153eE9BD2F69A0037e75b30e34be5E86Fb1E693a
-
-ElkNet: 0xD30Ffa3821F41A17Cb1850188C235703A73E4753
-
 Currently, BaaS is available on the following testnets:
 
 * Avalanche Fuji
@@ -24,13 +16,25 @@ Currently, BaaS is available on the following testnets:
 * Optimism Testnet
 * Ethereum Ropsten
 
-BaaS is also available on the following mainnets:
+Contract Addresses on Mainnet:
+
+* BaasConfig: 0x58986C808Bd0B904B60ADFcdD29586833Db6C0b9
+* Bifrost: 0x59f607fe24Dc6E4e154067Cb5768cE2f6cdb2d63
+* ElkNet: 0x9603D57C5D7c21cf61A5591cEbeA2B43489B15cD
+
+BaaS is available on the following mainnets:
 
 * Avalanche
 * Polygon
 * Binance Smart Chain
 * Linea
-* Q
+* Q (Coming Soon)
+
+Contract Addresses on Mainnet:
+
+* BaasConfig: 0x87187D96Bf51e9FB577e804BCE5747d7a81486C9
+* Bifrost: 0x153eE9BD2F69A0037e75b30e34be5E86Fb1E693a
+* ElkNet: 0xD30Ffa3821F41A17Cb1850188C235703A73E4753
 
 1. **Sign up for an ElkNet BaaS Realm** here: [https://forms.gle/vYHUd5CoZrbiGZut7](https://forms.gle/vYHUd5CoZrbiGZut7) and wait for the approval message in your Telegram DM from @LtSnakePlissken or @Baal314. Note your Realm ID number.
 2. **Open Remix and Clone the Repo**- Navigate to [https://remix.ethereum.org/](https://remix.ethereum.org/) and clone the following Git Repo: [https://github.com/LtSnakePlissken/baas](https://github.com/LtSnakePlissken/baas)\
@@ -90,14 +94,12 @@ BaaS is also available on the following mainnets:
 10. **Link your Reservoir to your Realm**- Navigate to your deployed Reservoir contract and expand the contract to read the "OPERATOR\_ROLE", similar to the prior step. Copy this value and expand the "grantRole" function on the Reservoir contract. Paste the data into "role" and the contract address of your Realm (not the Reservoir) into "address" and click "transact". Repeat on all chains.
 
     <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Copy the OPERATOR_ROLE date to "role" under "grantRole", along with the contract address of your Realm under "address" to tell the Reservoir about the Realm contract.</p></figcaption></figure>
-11. **Enable your Realm in the BaaS Config Contract**- Navigate to contracts/BaasConfig.sol, compile it, navigate to "Deploy & Run Transactions", and enter the BaaS Config address at the start of this guide into the "At Address" field, clicking "At Address" to interact with the BaaS Config contract below. Expand the contract and the "setRealm" function. Input your Realm ID into "realmID" and your Realm Contract's address in "realm". Repeat on other chain(s).\
-
+11. **Enable your Realm in the BaaS Config Contract**- Navigate to contracts/BaasConfig.sol, compile it, navigate to "Deploy & Run Transactions", and enter the BaaS Config address at the start of this guide into the "At Address" field, clicking "At Address" to interact with the BaaS Config contract below. Expand the contract and the "setRealm" function. Input your Realm ID into "realmID" and your Realm Contract's address in "realm". Repeat on other chain(s).\\
 
     <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>Tell the Baas Config contract about your Realm</p></figcaption></figure>
 12. **Approve your Token**- If you sent your tokens to a different address on one chain in Step 3, you'll need to switch to that address to approve your tokens. Expand your deployed ERC-20 Token contract and expand the "approve" function. Enter your Reservoir address in "spender" and "115792089237316195423570985008687907853269984665640564039457584007913129639935" in "value". Click "transact" and approve the transaction in MetaMask. Repeat this on the other chain.
 
     <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>This amount is basically a shortcut for infinite approval. Feel free to substitute any number in Wei that is greater than or equal to the amount of your token you intend to send in a test transaction.</p></figcaption></figure>
-13. **Test out your Shiny New Bridge**- Ensure you are connected to the chain where the tokens are in your wallet. Expand your Bridge Head Contract and the "bridgeTokens" function. Enter the chain ID of the chain you want to transfer to in "chainId" (e.g., on Avalanche we will enter 137 to transfer to Polygon), the address you want to send to in "receiver", the amount of tokens you want to send in "amount" (plus 18 zeros if you have a token contract with 18 decimals), and enter "0x" in "message" (you can optionally attach a message in bytecode, but it is out of the scope of this guide). Hit transact, start the timer, and see how fast your token arrives on Polygon!\
-
+13. **Test out your Shiny New Bridge**- Ensure you are connected to the chain where the tokens are in your wallet. Expand your Bridge Head Contract and the "bridgeTokens" function. Enter the chain ID of the chain you want to transfer to in "chainId" (e.g., on Avalanche we will enter 137 to transfer to Polygon), the address you want to send to in "receiver", the amount of tokens you want to send in "amount" (plus 18 zeros if you have a token contract with 18 decimals), and enter "0x" in "message" (you can optionally attach a message in bytecode, but it is out of the scope of this guide). Hit transact, start the timer, and see how fast your token arrives on Polygon!\\
 
     <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>Sending from Avalanche to Polygon</p></figcaption></figure>
