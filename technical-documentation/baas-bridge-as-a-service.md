@@ -42,7 +42,17 @@ Note that this access is free of charge, and we will never charge you for it or 
 
 Below are the deployment addresses of each Alpha 2 contract on the different chains.
 
-_Currently deploying. Please check back in a day or two..._
+BaaS Contract Addresses on Testnets:
+
+* BaasConfig: 0x58986C808Bd0B904B60ADFcdD29586833Db6C0b9
+* Bifrost: 0x59f607fe24Dc6E4e154067Cb5768cE2f6cdb2d63
+* ElkNet: 0x9603D57C5D7c21cf61A5591cEbeA2B43489B15cD
+
+Contract Addresses on Mainnets:
+
+* BaasConfig: 0x87187D96Bf51e9FB577e804BCE5747d7a81486C9
+* Bifrost: 0x153eE9BD2F69A0037e75b30e34be5E86Fb1E693a
+* ElkNet: 0xD30Ffa3821F41A17Cb1850188C235703A73E4753
 
 ### Alpha 2 Expiry
 
@@ -203,7 +213,7 @@ The paranode API is currently unavailable as part of this Alpha 2. We are curren
 
 ## FAQ
 
-* **Why Alpha 2? What was Alpha 1?**&#x20;
+* **Why Alpha 2? What was Alpha 1?**
 
 Elk's BaaS is currently in Alpha 2. Alpha 1 was the first version of BaaS, which only supported ERC20 token transfers. Alpha 2 is the complete BaaS as intended and supports arbitrary data transfers across blockchains (aka universal bridge).
 
