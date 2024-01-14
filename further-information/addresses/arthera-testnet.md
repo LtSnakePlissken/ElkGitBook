@@ -28,37 +28,37 @@ Use our API to easily query our farms and liquidity pairs:
 
 ## V3 Contract Addresses
 
-ElkDEX V3 Core Factory: 0xE8234393E0Ffe32785BD78366be2FfFcE51795b9
+ElkDEX V3 Core Factory: [0xE8234393E0Ffe32785BD78366be2FfFcE51795b9](https://explorer-test.arthera.net/address/0xE8234393E0Ffe32785BD78366be2FfFcE51795b9)
 
-Multicall2: 0x352D8F40cD62Ffd82d98210FFE2d75584387de05
+Multicall2: [0x352D8F40cD62Ffd82d98210FFE2d75584387de05](https://explorer-test.arthera.net/address/0x352D8F40cD62Ffd82d98210FFE2d75584387de05)
 
-Tick Lens: 0x793eaB1953e650C422C92ccc8B7e36Cce62bCd04
+Tick Lens: [0x793eaB1953e650C422C92ccc8B7e36Cce62bCd04](https://explorer-test.arthera.net/address/0x793eaB1953e650C422C92ccc8B7e36Cce62bCd04)
 
-Quoter V2: 0x5F01387F0C5c1AeD7b86eDD9DA3932984e06999d
+Quoter V2: [0x5F01387F0C5c1AeD7b86eDD9DA3932984e06999d](https://explorer-test.arthera.net/address/0x5F01387F0C5c1AeD7b86eDD9DA3932984e06999d)
 
-Quoter: 0x87afFD43eD21B0D73B080Fd5d0b90A46F10A80B7
+Quoter: [0x87afFD43eD21B0D73B080Fd5d0b90A46F10A80B7](https://explorer-test.arthera.net/address/0x87afFD43eD21B0D73B080Fd5d0b90A46F10A80B7)
 
-Proxy Admin: 0xe988B3d66a76d022bEcC75516E1997690D51855f
+Proxy Admin: [0xe988B3d66a76d022bEcC75516E1997690D51855f](https://explorer-test.arthera.net/address/0xe988B3d66a76d022bEcC75516E1997690D51855f)
 
-NFT Descriptor Library V1.3.0: 0xA25AfE3E1f9f1B317b8C1C277cA59D700EEFA8C5
+NFT Descriptor Library V1.3.0: [0xA25AfE3E1f9f1B317b8C1C277cA59D700EEFA8C5](https://explorer-test.arthera.net/address/0xA25AfE3E1f9f1B317b8C1C277cA59D700EEFA8C5)
 
-Nonfungible Token Position Descriptor V1.3.0: 0x26BaB438d10ac10a5f1747a53Ff1Fa3AF984E68f
+Nonfungible Token Position Descriptor V1.3.0: [0x26BaB438d10ac10a5f1747a53Ff1Fa3AF984E68f](https://explorer-test.arthera.net/address/0x26BaB438d10ac10a5f1747a53Ff1Fa3AF984E68f)
 
-Descriptor Proxy: 0xCA4BD724825A228e49257b3e4E1B5637416d830A
+Descriptor Proxy: [0xCA4BD724825A228e49257b3e4E1B5637416d830A](https://explorer-test.arthera.net/address/0xCA4BD724825A228e49257b3e4E1B5637416d830A)
 
-Nonfungible Token Position Manager: 0xBd5bf0Dcc6c61760baAa536d0D17B1d2e358CC27
+Nonfungible Token Position Manager: [0xBd5bf0Dcc6c61760baAa536d0D17B1d2e358CC27](https://explorer-test.arthera.net/address/0xBd5bf0Dcc6c61760baAa536d0D17B1d2e358CC27)
 
-ElkDEX V3 Migrator: 0xe88380Fc1D221916c2F3593eAd78f5316F971D95
+ElkDEX V3 Migrator: [0xe88380Fc1D221916c2F3593eAd78f5316F971D95](https://explorer-test.arthera.net/address/0xe88380Fc1D221916c2F3593eAd78f5316F971D95)
 
-Swap Router: 0xb2A8B9AcC739FCcf52A382452DCfCEF2338d731B
+Swap Router: [0xb2A8B9AcC739FCcf52A382452DCfCEF2338d731B](https://explorer-test.arthera.net/address/0xb2A8B9AcC739FCcf52A382452DCfCEF2338d731B)
 
-Swap Router 02: 0x967750742ab55B2e15c100093497b452Aef97b25
+Swap Router 02: [0x967750742ab55B2e15c100093497b452Aef97b25](https://explorer-test.arthera.net/address/0x967750742ab55B2e15c100093497b452Aef97b25)
 
 ## V2 Contract Addresses
 
-ElkDEX Router: [0x7ae799fDBE4c330A4AC18d8d65765222A0D47e6D](https://explorer-test.arthera.net/address/0x7ae799fDBE4c330A4AC18d8d65765222A0D47e6D)
+ElkDEX Router: [0x4dE0826D73a4EdffBc029377036AaDd803D43413](https://explorer-test.arthera.net/address/0x4dE0826D73a4EdffBc029377036AaDd803D43413)
 
-ElkDEX Factory: [0xfbb4E52FEcc90924c79F980eb24a9794ae4aFFA4](https://explorer-test.arthera.net/address/0xfbb4E52FEcc90924c79F980eb24a9794ae4aFFA4)
+ElkDEX Factory: [0x421a112ab4054eE33F7dcdaD7C2bd19aDe6E6D63](https://explorer-test.arthera.net/address/0x421a112ab4054eE33F7dcdaD7C2bd19aDe6E6D63)
 
 Farms-as-a-Service Farm Factory: [0xc3D712E6253E33Ba3CF361d00Ba5382Da4d30fb6](https://explorer-test.arthera.net/address/0xc3D712E6253E33Ba3CF361d00Ba5382Da4d30fb6)
 
