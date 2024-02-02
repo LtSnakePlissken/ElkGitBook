@@ -68,6 +68,7 @@
   * [Linea](further-information/addresses/linea.md)
   * [Velas](further-information/addresses/velas.md)
   * [Q Blockchain](further-information/addresses/q-blockchain.md)
+  * [Arthera Mainnet](further-information/addresses/arthera-mainnet.md)
   * [Arthera Testnet](further-information/addresses/arthera-testnet.md)
   * [Legacy Addresses](further-information/addresses/legacy-addresses/README.md)
     * [Avalanche- Legacy (v2)](further-information/addresses/legacy-addresses/avalanche-legacy-v2.md)
