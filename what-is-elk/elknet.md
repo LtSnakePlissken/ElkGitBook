@@ -20,10 +20,10 @@ Security, speed, and cost form the three points on the cross-chain triangle. The
 
 These changes are especially crucial for managing user fees networks known for higher gas costs, such as Ethereum. Our goal is to preserve ElkNet’s status as the fastest and most economical cross-chain bridging option anywhere.
 
-### **Cross-chain messaging.**&#x20;
+### **Cross-chain messaging.**
 
 One of the most exciting new features coming to ElkNet v2 is a generalized message-passing layer, which allows information and data packets to move between all supported blockchains. This feature will soon enable outside developers to leverage the ElkNet to deploy cross-chain smart contracts and innovative web3 applications. It can also be used for many other applications, which we’ll detail in a future article.
 
-### **Coming soon: decentralization.**&#x20;
+### **Coming soon: decentralization.**
 
-We are targeting Q4 2022 for making ElkNet a trustless peer-to-peer network by giving users the ability to run their own ElkNet nodes. This “ElkNet v3” release will mark the transition to a mature, decentralized cross-chain protocol.
+We are targeting Q4 2024 for making ElkNet a trustless peer-to-peer network by giving users the ability to run their own ElkNet nodes. This “ElkNet v3” release will mark the transition to a mature, decentralized cross-chain protocol.
