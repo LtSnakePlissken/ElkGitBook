@@ -85,7 +85,9 @@ Contract Addresses on Mainnets above:
     <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Enter the info and hit "transact". Remember to record the contract address of your Realm.</p></figcaption></figure>
 8.  **Enable Transfer to Other Chains**- Expand the Realm contract in the "Deploy & Run Transactions" window, expand "setTargetChainSupported", and enter the ChainID of the chains users can bridge to and set "\_supported" to "1" (for true) and click "transact".\
     \
-    For example, since we're currently connected to Avalanche, we would put "137" in "chainId" to enable transfers to Polygon on Avalanche, and then when switching our network to Polygon, we would input "43114" in "chainId" to enable transfers to Avalanche from Polygon.
+    For example, since we're currently connected to Avalanche, we would put "137" in "chainId" to enable transfers to Polygon on Avalanche, and then when switching our network to Polygon, we would input "43114" in "chainId" to enable transfers to Avalanche from Polygon.\
+    \
+    Testnet Chain IDs: Goerli (ETH)- 5, Optimism Goerli- 420, Fantom Testnet- 250, Avalanche Fuji- 43113, Polygon Mumbai- 80001
 
     <figure><img src="../.gitbook/assets/image (6).png" alt="" width="225"><figcaption><p>If we were launching this on more than 2 chains, we would input all other chain ID's, one at a time, except for the chain we're currencly connected to.</p></figcaption></figure>
 9.  **Set the BiFrost Address in Your Realm**- Scroll down to the "BIFROST\_ROLE" button in the Realm contract and click it to reveal the name of the role (in bytes32). Copy that data without quotes, scroll up and expand the "grantRole" function, and paste it into the "role" field. Input the BiFrost address at the start of this guide into the "account" field, and press "transact". Repeat this on all chains. Check that the "BIFROST\_ROLE" outputs the same data on every chain by clicking it again each time you switch chains in MetaMask.
