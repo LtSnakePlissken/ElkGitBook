@@ -10,7 +10,7 @@ description: Where can you find us?
 
 **Telegram Announcements:** [https://t.me/elk\_finance](https://t.me/elk\_finance)
 
-**Discord:** [https://discord.gg/WG2hDCRRZX](https://discord.gg/WG2hDCRRZX)
+**Discord:** [https://discord.gg/2xEwQwzt3w](https://discord.gg/2xEwQwzt3w)
 
 ## **Blog and microblogging**
 
