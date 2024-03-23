@@ -14,7 +14,7 @@ Currently, BaaS is available on the following testnets:
 * Polygon Mumbai
 * Fantom Testnet
 * Optimism Testnet
-* Ethereum Ropsten
+* Ethereum Goerli
 
 BaaS Contract Addresses on Testnets above:
 
