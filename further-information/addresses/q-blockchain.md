@@ -68,7 +68,7 @@ Single-Stake-as-a-Service Factory: [0x0b921fc8b84656157f5b7ddbf385205d1873a72c](
 
 **ELK Single Stake Pool**
 
-[0x57A1CE7686F3B2AB61F5191c76361F985b57E0fa](https://explorer.q.org/address/0x57A1CE7686F3B2AB61F5191c76361F985b57E0fa/), 50 ELK / day & 320 Q / day
+[0x57A1CE7686F3B2AB61F5191c76361F985b57E0fa](https://explorer.q.org/address/0x57A1CE7686F3B2AB61F5191c76361F985b57E0fa/), 50 ELK / day & 285 Q / day
 
 ### **Farm Addresses**
 
@@ -78,6 +78,7 @@ Single-Stake-as-a-Service Factory: [0x0b921fc8b84656157f5b7ddbf385205d1873a72c](
 | QUSD-USDC    | [0x2a6B4a23EE55C6613521C726D79f348b385Eabe9](https://explorer.q.org/address/0x2a6B4a23EE55C6613521C726D79f348b385Eabe9)  | <p>54 ELK<br>200 Q</p> |
 | QUSD-WBTC    | [0x0fBc8f8B56f5688417D9E7e585c1F106E8b19A19](https://explorer.q.org/address/0x0fBc8f8B56f5688417D9E7e585c1F106E8b19A19)  | 200 Q                  |
 | QUSD-DAI(V2) | [0x8858d27a7c6c05dF3ee1f4ff425C9b786274205e](https://explorer.q.org/address/0x8858d27a7c6c05dF3ee1f4ff425C9b786274205e)  | 100 Q                  |
+| QUSD-VNX     | [0x552CA53B470cBA194BD65382fA226dCa7dCADf21](https://explorer.q.org/address/0x552CA53B470cBA194BD65382fA226dCa7dCADf21)  | 250 Q                  |
 
 ### Known Liquidity Pairs
 
@@ -88,6 +89,7 @@ Single-Stake-as-a-Service Factory: [0x0b921fc8b84656157f5b7ddbf385205d1873a72c](
 | DAI-USDC  | [0xa5b62CC6956E3bc31E37ac22cF9956FFb41b5353](https://explorer.q.org/token/0xa5b62CC6956E3bc31E37ac22cF9956FFb41b5353) |
 | QUSD-USDC | [0x2A36b45be4C04900A5946A1B6bf991aDec93ADdE](https://explorer.q.org/token/0x2A36b45be4C04900A5946A1B6bf991aDec93ADdE) |
 | QUSD-WBTC | [0x38d54a9a8C622CD682398C2Bef7341D08b32e4b1](https://explorer.q.org/token/0x38d54a9a8C622CD682398C2Bef7341D08b32e4b1) |
+| QUSD-VNX  | [0x4300B43659e2d4300FF9379Db65cBFb036Ab9096](https://explorer.q.org/token/0x4300B43659e2d4300FF9379Db65cBFb036Ab9096) |
 
 ### **Discontinued Farms**
 
