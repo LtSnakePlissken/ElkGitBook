@@ -24,7 +24,7 @@ Therefore, everything that Elk team members are doing is to provide one thing: _
 2. **Elk SDK for developers and platforms to build on Elk (Bridge-as-a-Service - BaaS)**
    1. BaaS Alpha ✅
    2. BaaS SDK Alpha 2 Release ✅
-   3. SDK support for permissionless bridge creation (BaaS Beta)&#x20;
+   3. SDK support for permissionless bridge creation (BaaS Beta)
 3. **Mainnet node**
    1. Private ElkNet Nodes ✅
    2. Invited users running Elk mainnet nodes
@@ -58,14 +58,14 @@ Therefore, everything that Elk team members are doing is to provide one thing: _
 
 For the coming year we have identified the following elements to achieve:
 
-#### 2024 Q1:
+#### 2024 Q1/2:
 
 * Bridging-as-a-Service Software Development Kit (SDK) Beta release
 * Xion payments solution roll-out and scaling
 * Further developer exploration and engineering consultation for various cross-chain applications
 * FaaS for ElkDex concentrated liquidity farms (based on Uniswap v3)
 
-#### 2024 Q2 onwards:
+#### 2024 Q3 onwards:
 
 * Mainnet Nodes - Securing ElkNet by staking ELK
 * Cross-Chain Swaps - One-click asset trading through the ElkDex, powered by ElkNet
