@@ -69,7 +69,7 @@
   * [Velas](further-information/addresses/velas.md)
   * [Q Blockchain](further-information/addresses/q-blockchain.md)
   * [Arthera Mainnet](further-information/addresses/arthera-mainnet.md)
-  * [Arthera Testnet](further-information/addresses/arthera-testnet.md)
+  * [Rootstock](further-information/addresses/rootstock.md)
   * [Legacy Addresses](further-information/addresses/legacy-addresses/README.md)
     * [Avalanche- Legacy (v2)](further-information/addresses/legacy-addresses/avalanche-legacy-v2.md)
     * [Polygon- Legacy (v2)](further-information/addresses/legacy-addresses/polygon-legacy-v2.md)
@@ -88,6 +88,7 @@
     * [Fuse- Legacy (v2)](further-information/addresses/legacy-addresses/fuse-legacy-v2.md)
     * [IoTeX- Legacy (v2)](further-information/addresses/legacy-addresses/iotex-legacy-v2.md)
     * [Hoo Smart Chain](further-information/addresses/legacy-addresses/hoo-smart-chain.md)
+    * [Arthera Testnet](further-information/addresses/arthera-testnet.md)
 
 ## Elk History
 

@@ -1,4 +1,4 @@
-# Linea
+# Arthera Mainnet
 
 Note: all our contracts are verified on their respective explorers. If you find any contract that is not verified, [please let us know](mailto:hello@elk.finance).
 
@@ -22,48 +22,47 @@ Use our API to easily query our farms and liquidity pairs:
 
 0x42424242B0c0d8A19dCD0dF362815E242586354A \[[Avalanche](https://snowtrace.io/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Polygon](https://polygonscan.com/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Fantom](https://ftmscan.com/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Huobi ECO](https://hecoinfo.com/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Gnosis (formerly xDAI)](https://blockscout.com/xdai/mainnet/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[BNB Chain](https://bscscan.com/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Kucoin](https://explorer.kcc.io/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Harmony](https://explorer.harmony.one/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[OEC](https://www.oklink.com/oktc/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Hoo](https://hooscan.com/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Elastos](https://esc.elastos.io/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Moonriver](https://blockscout.moonriver.moonbeam.network/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Cronos](https://cronos.org/explorer/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Telos](https://www.teloscan.io/evm/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Fuse](https://explorer.fuse.io/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[IoTeX](https://iotexscout.io/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Ethereum](https://etherscan.io/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Arbitrum](https://arbiscan.io/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Optimism](https://optimistic.etherscan.io/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Kava](https://explorer.kava.io/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[BTTC](https://bttcscan.com/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Bitgert](https://brisescan.com/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Metis](https://andromeda-explorer.metis.io/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Wan](https://www.wanscan.org/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Neon](https://neonscan.org/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Astar](https://blockscout.com/astar/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Linea](https://lineascan.build/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Base](https://basescan.org/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Velas](https://evmexplorer.velas.com/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Q](https://explorer.q.org/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)] \[[Arthera- Address Differs](https://explorer.arthera.net/address/0x895b900AA1D1EF851c442645fF6dC912bbF2747B)] \[[Rootstock](https://rootstock.blockscout.com/address/0x42424242B0c0d8A19dCD0dF362815E242586354A)]
 
-### Linea Chain
+### Rootstock
 
 #### ElkDEX Smart Contracts
 
 ## V3 Contract Addresses
 
-ElkDEX V3 Core Factory: [0xC05A5aA56DF0Dc97D6B9849A06627a079790014f](https://lineascan.build/address/0xC05A5aA56DF0Dc97D6B9849A06627a079790014f)
+ElkDEX V3 Core Factory: [0xC05A5aA56DF0Dc97D6B9849A06627a079790014f](https://rootstock.blockscout.com/address/0xC05A5aA56DF0Dc97D6B9849A06627a079790014f)
 
-Multicall2: [0xf3295f2178762Aa96eDf5e3e30178E60c79B6Ff8](https://lineascan.build/address/0xf3295f2178762Aa96eDf5e3e30178E60c79B6Ff8)
+Multicall2: [0xf3295f2178762Aa96eDf5e3e30178E60c79B6Ff8](https://rootstock.blockscout.com/address/0xf3295f2178762Aa96eDf5e3e30178E60c79B6Ff8)
 
-Tick Lens: [0x430638b0710EB36eC68bBF2fcA97085339470701](https://lineascan.build/address/0x430638b0710EB36eC68bBF2fcA97085339470701)
+Tick Lens: [0x430638b0710EB36eC68bBF2fcA97085339470701](https://rootstock.blockscout.com/address/0x430638b0710EB36eC68bBF2fcA97085339470701)
 
-Quoter V2: [0xC4b501cf8f974B7e2AeF41B8cF252d5B77cC0e20](https://lineascan.build/address/0xC4b501cf8f974B7e2AeF41B8cF252d5B77cC0e20)
+Quoter V2: [0xC4b501cf8f974B7e2AeF41B8cF252d5B77cC0e20](https://rootstock.blockscout.com/address/0xC4b501cf8f974B7e2AeF41B8cF252d5B77cC0e20)
 
-Quoter: [0xA38D20f9F3DEbb282BdCF130594A25516E9F9e50](https://lineascan.build/address/0xA38D20f9F3DEbb282BdCF130594A25516E9F9e50)
+Quoter: [0xA38D20f9F3DEbb282BdCF130594A25516E9F9e50](https://rootstock.blockscout.com/address/0xA38D20f9F3DEbb282BdCF130594A25516E9F9e50)
 
-Proxy Admin: [0x4b094AeCF5598CA868C4470Dc2c99425dA6256f8](https://lineascan.build/address/0x4b094AeCF5598CA868C4470Dc2c99425dA6256f8)
+Proxy Admin: [0x4b094AeCF5598CA868C4470Dc2c99425dA6256f8](https://rootstock.blockscout.com/address/0x4b094AeCF5598CA868C4470Dc2c99425dA6256f8)
 
-NFT Descriptor Library V1.3.0: [0x5ad267449556588cBfc5eec5d7FC4057b278E6E2](https://lineascan.build/address/0x5ad267449556588cBfc5eec5d7FC4057b278E6E2)
+NFT Descriptor Library V1.3.0: [0x5ad267449556588cBfc5eec5d7FC4057b278E6E2](https://rootstock.blockscout.com/address/0x5ad267449556588cBfc5eec5d7FC4057b278E6E2)
 
-Nonfungible Token Position Descriptor V1.3.0: [0x662643B4fEAaA99b355F8d5B31D91030FB9D9A8C](https://lineascan.build/address/0x662643B4fEAaA99b355F8d5B31D91030FB9D9A8C)
+Nonfungible Token Position Descriptor V1.3.0: [0x662643B4fEAaA99b355F8d5B31D91030FB9D9A8C](https://rootstock.blockscout.com/address/0x662643B4fEAaA99b355F8d5B31D91030FB9D9A8C)
 
-Descriptor Proxy: [0x965991775dA1a3550445F76B2aA799eAC0A05434](https://lineascan.build/address/0x965991775dA1a3550445F76B2aA799eAC0A05434)
+Descriptor Proxy: [0x965991775dA1a3550445F76B2aA799eAC0A05434](https://rootstock.blockscout.com/address/0x965991775dA1a3550445F76B2aA799eAC0A05434)
 
-Nonfungible Token Position Manager: [0x9831C93f3024e06db9EEE6a5aDd6e122d18465bE](https://lineascan.build/address/0x9831C93f3024e06db9EEE6a5aDd6e122d18465bE)
+Nonfungible Token Position Manager: [0x9831C93f3024e06db9EEE6a5aDd6e122d18465bE](https://rootstock.blockscout.com/address/0x9831C93f3024e06db9EEE6a5aDd6e122d18465bE)
 
-ElkDEX V3 Migrator: [0xB50575aC3a84cd7510A10f52dB43aDfaCCfF23bE](https://lineascan.build/address/0xB50575aC3a84cd7510A10f52dB43aDfaCCfF23bE)
+ElkDEX V3 Migrator: [0xB50575aC3a84cd7510A10f52dB43aDfaCCfF23bE](https://rootstock.blockscout.com/address/0xB50575aC3a84cd7510A10f52dB43aDfaCCfF23bE)
 
-Swap Router: [0x283F87D2D4A401aa4B31fE60597bd8bA7BdE2221](https://lineascan.build/address/0x283F87D2D4A401aa4B31fE60597bd8bA7BdE2221)
+Swap Router: [0x283F87D2D4A401aa4B31fE60597bd8bA7BdE2221](https://rootstock.blockscout.com/address/0x283F87D2D4A401aa4B31fE60597bd8bA7BdE2221)
 
-Swap Router 02: [0x7740C2eE0051e275323feb42521cA1161925C2f2](https://lineascan.build/address/0x7740C2eE0051e275323feb42521cA1161925C2f2)
+Swap Router 02: [0x7740C2eE0051e275323feb42521cA1161925C2f2](https://rootstock.blockscout.com/address/0x7740C2eE0051e275323feb42521cA1161925C2f2)
 
 ## V2 Contract Addresses
 
-ElkDEX Router: [0x7ae799fDBE4c330A4AC18d8d65765222A0D47e6D](https://lineascan.build/address/0x7ae799fDBE4c330A4AC18d8d65765222A0D47e6D)
+ElkDEX Router: [0x35FC5DF37eABaB62B55ECDc349b2d718C88E107A](https://rootstock.blockscout.com/address/0x35FC5DF37eABaB62B55ECDc349b2d718C88E107A)
 
-ElkDEX Factory: [0xfbb4E52FEcc90924c79F980eb24a9794ae4aFFA4](https://lineascan.build/address/0xfbb4E52FEcc90924c79F980eb24a9794ae4aFFA4)
+ElkDEX Factory: [0x69D10bc18cD588A4b70F836a471D4e9C2FD86092](https://rootstock.blockscout.com/address/0x69D10bc18cD588A4b70F836a471D4e9C2FD86092)
 
-Farms-as-a-Service Farm Factory: [0xc3D712E6253E33Ba3CF361d00Ba5382Da4d30fb6](https://lineascan.build/address/0xc3D712E6253E33Ba3CF361d00Ba5382Da4d30fb6)
+Farms-as-a-Service Farm Factory: [0x78A7f784726652F6b7174e0e5b9A75516Fdc1062](https://rootstock.blockscout.com/address/0x78A7f784726652F6b7174e0e5b9A75516Fdc1062)
 
-Single-Stake-as-a-Service Factory: [0x0b921fc8b84656157f5b7ddbf385205d1873a72c](https://lineascan.build/address/0x0b921fc8b84656157f5b7ddbf385205d1873a72c)
-
+Single-Stake-as-a-Service Factory: [0x0b921FC8B84656157F5B7Ddbf385205d1873a72C](https://rootstock.blockscout.com/address/0x0b921FC8B84656157F5B7Ddbf385205d1873a72C)
 
 ### Staking Pool
 
@@ -71,18 +70,22 @@ Single-Stake-as-a-Service Factory: [0x0b921fc8b84656157f5b7ddbf385205d1873a72c](
 
 Not yet initialized on this chain.
 
-
-
 ### **Farm Addresses**
 
-
-
-| Pair | Address | ELK / day |
-| ---- | ------- | --------- |
-| TBD  |         |           |
+| Farm Name | Address |
+| --------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| rBTC-ELK  | [0x9AE4818CCDD3236d2eAf3ceD706f9294f43818FE](https://rootstock.blockscout.com/address/0x9AE4818CCDD3236d2eAf3ceD706f9294f43818FE) |
 
 ### Known Liquidity Pairs
 
-| Pair | Address |
-| ---- | ------- |
-| TBD  |         |
+| Pair       | Address                                                                                                                         |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| rBTC-ELK   | [0xAb5054A6802d4b69FEff6EC43EBC6cAd74CbbBE4](https://rootstock.blockscout.com/token/0xAb5054A6802d4b69FEff6EC43EBC6cAd74CbbBE4) |
+| rUSDT-ELK  | [0xe3dc5ebB58C566CB409c68DBd7b52B8621ed24A9](https://rootstock.blockscout.com/token/0xe3dc5ebB58C566CB409c68DBd7b52B8621ed24A9) |
+| rBTC-rUSDT | [0x9eaa383898CADE8638D1AEeDBf3cEfe212912DC0](https://rootstock.blockscout.com/0x9eaa383898CADE8638D1AEeDBf3cEfe212912DC0)       |
+
+### **Discontinued Farms**
+
+| Farm Name | Address |
+| --------- | ------- |
+|           |         |
