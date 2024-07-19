@@ -88,7 +88,7 @@
     * [Fuse- Legacy (v2)](further-information/addresses/legacy-addresses/fuse-legacy-v2.md)
     * [IoTeX- Legacy (v2)](further-information/addresses/legacy-addresses/iotex-legacy-v2.md)
     * [Hoo Smart Chain](further-information/addresses/legacy-addresses/hoo-smart-chain.md)
-    * [Arthera Testnet](further-information/addresses/arthera-testnet.md)
+    * [Arthera Testnet](further-information/addresses/legacy-addresses/arthera-testnet.md)
 
 ## Elk History
 
