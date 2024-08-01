@@ -74,16 +74,20 @@ Single-Stake-as-a-Service Factory: [0x0b921fc8b84656157f5b7ddbf385205d1873a72c](
 
 | Pair         | Address                                                                                                                  | ELK / day              |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------ | ---------------------- |
-| QUSD-ELK     | [0xB4c40bB97f0B2B6fF94C819a8a494b4f14B72AA2](https://explorer.q.org/address/0xB4c40bB97f0B2B6fF94C819a8a494b4f14B72AA2/) | <p>54 ELK<br>200 Q</p> |
-| QUSD-USDC    | [0x2a6B4a23EE55C6613521C726D79f348b385Eabe9](https://explorer.q.org/address/0x2a6B4a23EE55C6613521C726D79f348b385Eabe9)  | <p>54 ELK<br>200 Q</p> |
-| QUSD-WBTC    | [0x0fBc8f8B56f5688417D9E7e585c1F106E8b19A19](https://explorer.q.org/address/0x0fBc8f8B56f5688417D9E7e585c1F106E8b19A19)  | 200 Q                  |
-| QUSD-DAI(V2) | [0x8858d27a7c6c05dF3ee1f4ff425C9b786274205e](https://explorer.q.org/address/0x8858d27a7c6c05dF3ee1f4ff425C9b786274205e)  | 100 Q                  |
-| QUSD-VNX     | [0x552CA53B470cBA194BD65382fA226dCa7dCADf21](https://explorer.q.org/address/0x552CA53B470cBA194BD65382fA226dCa7dCADf21)  | 250 Q                  |
+| USDC-QGOV    | [0xd690acC5f6DAFdC064f5C26800bBad2E9603610B](https://explorer.q.org/address/0xd690acC5f6DAFdC064f5C26800bBad2E9603610B)  | <p>100 ELK<br>100 Q</p>|
+| QGOV-QUSD    | [0x91a63B603D7c8F7C77c865a5dB4b606b5255e899](https://explorer.q.org/address/0x91a63B603D7c8F7C77c865a5dB4b606b5255e899)  | <p>100 ELK<br>100 Q</p>|
+| QGOV-ELK     | [0x7D450DDB83fB356b0F2B457179fd46669688d5b7](https://explorer.q.org/address/0x7D450DDB83fB356b0F2B457179fd46669688d5b7)  | <p>100 ELK<br>100 Q</p>|
+| QUSD-ELK     | [0xB4c40bB97f0B2B6fF94C819a8a494b4f14B72AA2](https://explorer.q.org/address/0xB4c40bB97f0B2B6fF94C819a8a494b4f14B72AA2/) | <p>170 Q</p>           |
+| QUSD-USDC    | [0x2a6B4a23EE55C6613521C726D79f348b385Eabe9](https://explorer.q.org/address/0x2a6B4a23EE55C6613521C726D79f348b385Eabe9)  | <p>100 ELK<br>100 Q</p>|
+
 
 ### Known Liquidity Pairs
 
 | Pair      | Address                                                                                                               |
 | --------- | --------------------------------------------------------------------------------------------------------------------- |
+| USDC-QGOV | [0xDA1554dB6836d7F450a50919b5a6A498F26ecd3C](https://explorer.q.org/token/0xDA1554dB6836d7F450a50919b5a6A498F26ecd3C) |
+| QGOV-QUSD | [0xc97f67086655853b8FA785c628cC8D2f8efb2a47](https://explorer.q.org/token/0xc97f67086655853b8FA785c628cC8D2f8efb2a47) |
+| QGOV-ELK  | [0xFa60d3182E75d2590F477e39032832cA2C5C197F](https://explorer.q.org/token/0xFa60d3182E75d2590F477e39032832cA2C5C197F) |
 | QUSD-ELK  | [0x8490a1ece0363dE138d39022629785e060422571](https://explorer.q.org/token/0x8490a1ece0363dE138d39022629785e060422571) |
 | QUSD-DAI  | [0x566989560917879868cb98C5EF72d9050298c49c](https://explorer.q.org/token/0x566989560917879868cb98C5EF72d9050298c49c) |
 | DAI-USDC  | [0xa5b62CC6956E3bc31E37ac22cF9956FFb41b5353](https://explorer.q.org/token/0xa5b62CC6956E3bc31E37ac22cF9956FFb41b5353) |
@@ -96,3 +100,6 @@ Single-Stake-as-a-Service Factory: [0x0b921fc8b84656157f5b7ddbf385205d1873a72c](
 | Farm Name    | Address                                                                                                                 |
 | ------------ | ----------------------------------------------------------------------------------------------------------------------- |
 | QUSD-DAI(V1) | [0x5Bd5Bf6Ac02f8aceabE27DB69C51daF7c5172909](https://explorer.q.org/address/0x5Bd5Bf6Ac02f8aceabE27DB69C51daF7c5172909) |
+| QUSD-WBTC    | [0x0fBc8f8B56f5688417D9E7e585c1F106E8b19A19](https://explorer.q.org/address/0x0fBc8f8B56f5688417D9E7e585c1F106E8b19A19) |
+| QUSD-DAI(V2) | [0x8858d27a7c6c05dF3ee1f4ff425C9b786274205e](https://explorer.q.org/address/0x8858d27a7c6c05dF3ee1f4ff425C9b786274205e) |
+| QUSD-VNX     | [0x552CA53B470cBA194BD65382fA226dCa7dCADf21](https://explorer.q.org/address/0x552CA53B470cBA194BD65382fA226dCa7dCADf21) |
