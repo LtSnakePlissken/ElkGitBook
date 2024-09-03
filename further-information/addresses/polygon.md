@@ -66,6 +66,8 @@ ElkDEX Factory: [0xE3BD06c7ac7E1CeB17BdD2E5BA83E40D1515AF2a](https://polygonscan
 
 Farms-as-a-Service Farm Factory: [0xb00a200Ae1c1213E97c981d882Dd79a7175F7735](https://polygonscan.com/address/0xb00a200Ae1c1213E97c981d882Dd79a7175F7735)
 
+Farms-as-a-Service Farm Manager: [0x6C21E50Fb9C592d5427d790fe424aE4acC24338F](https://polygonscan.com/address/0x6C21E50Fb9C592d5427d790fe424aE4acC24338F)
+
 Single-Stake-as-a-Service Factory: [0x6c21e50fb9c592d5427d790fe424ae4acc24338f](https://polygonscan.com/address/0x6c21e50fb9c592d5427d790fe424ae4acc24338f)
 
 

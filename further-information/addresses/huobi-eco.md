@@ -66,6 +66,8 @@ ElkDEX Factory: [0x997fCE9164D630CC58eE366d4D275B9D773d54A4](https://hecoinfo.co
 
 Farms-as-a-Service Farm Factory: [0xc3D712E6253E33Ba3CF361d00Ba5382Da4d30fb6](https://hecoinfo.com/address/0xc3D712E6253E33Ba3CF361d00Ba5382Da4d30fb6)
 
+Farms-as-a-Service Farm Manager: [0x28462f0898120db3138e5dbbe83f2f6206624722](https://hecoinfo.com/address/0x28462f0898120db3138e5dbbe83f2f6206624722)
+
 Single-Stake-as-a-Service Factory: [0x0b921fc8b84656157f5b7ddbf385205d1873a72c](https://hecoinfo.com/address/0x0b921fc8b84656157f5b7ddbf385205d1873a72c)
 
 

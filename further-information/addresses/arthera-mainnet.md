@@ -62,7 +62,9 @@ ElkDEX Factory: [0x69D10bc18cD588A4b70F836a471D4e9C2FD86092](https://explorer.ar
 
 Farms-as-a-Service Farm Factory: [0x6C21E50Fb9C592d5427d790fe424aE4acC24338F](https://explorer.arthera.net/address/0x6C21E50Fb9C592d5427d790fe424aE4acC24338F)
 
-Single-Stake-as-a-Service Factory: [0x0b921FC8B84656157F5B7Ddbf385205d1873a72C](https://explorer.arthera.net/address/0x0b921FC8B84656157F5B7Ddbf385205d1873a72C?tab=contract)
+Farms-as-a-Service Farm Manager: [0x28462f0898120db3138e5dbbe83f2f6206624722](https://explorer.arthera.net/address/0x28462f0898120db3138e5dbbe83f2f6206624722)
+
+Single-Stake-as-a-Service Factory: [0x0b921fc8b84656157f5b7ddbf385205d1873a72c](https://explorer.arthera.net/address/0x0b921FC8B84656157F5B7Ddbf385205d1873a72C?tab=contract)
 
 ### Staking Pool
 

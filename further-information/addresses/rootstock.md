@@ -62,7 +62,9 @@ ElkDEX Factory: [0x69D10bc18cD588A4b70F836a471D4e9C2FD86092](https://rootstock.b
 
 Farms-as-a-Service Farm Factory: [0x78A7f784726652F6b7174e0e5b9A75516Fdc1062](https://rootstock.blockscout.com/address/0x78A7f784726652F6b7174e0e5b9A75516Fdc1062)
 
-Single-Stake-as-a-Service Factory: [0x0b921FC8B84656157F5B7Ddbf385205d1873a72C](https://rootstock.blockscout.com/address/0x0b921FC8B84656157F5B7Ddbf385205d1873a72C)
+Farms-as-a-Service Farm Manager: [0x28462f0898120db3138e5dbbe83f2f6206624722](https://rootstock.blockscout.com/address/0x28462f0898120db3138e5dbbe83f2f6206624722)
+
+Single-Stake-as-a-Service Factory: [0x0b921fc8b84656157f5b7ddbf385205d1873a72c](https://rootstock.blockscout.com/address/0x0b921FC8B84656157F5B7Ddbf385205d1873a72C)
 
 ### Staking Pool
 

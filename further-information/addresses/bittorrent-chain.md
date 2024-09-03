@@ -62,6 +62,8 @@ ElkDEX Factory: [0xc06348AEE3f3E92eE452816E0D3F25C919F6fB04](https://bttcscan.co
 
 Farms-as-a-Service Farm Factory: [0xc3D712E6253E33Ba3CF361d00Ba5382Da4d30fb6](https://bttcscan.com/address/0xc3D712E6253E33Ba3CF361d00Ba5382Da4d30fb6)
 
+Farms-as-a-Service Farm Manager: [0x28462f0898120db3138e5dbbe83f2f6206624722](https://bttcscan.com/address/0x28462f0898120db3138e5dbbe83f2f6206624722)
+
 Single-Stake-as-a-Service Factory: [0x0b921fc8b84656157f5b7ddbf385205d1873a72c](https://bttcscan.com/address/0x0b921fc8b84656157f5b7ddbf385205d1873a72c)
 
 

@@ -66,6 +66,8 @@ ElkDEX Factory: [0xA59B2044EAFD15ee4deF138D410d764c9023E1F0](https://arbiscan.io
 
 Farms-as-a-Service Farm Factory: [0xc3D712E6253E33Ba3CF361d00Ba5382Da4d30fb6](https://arbiscan.io/address/0xc3D712E6253E33Ba3CF361d00Ba5382Da4d30fb6)
 
+Farms-as-a-Service Farm Manager: [0x28462f0898120db3138e5dbbe83f2f6206624722](https://arbiscan.io/address/0x28462f0898120db3138e5dbbe83f2f6206624722)
+
 Single-Stake-as-a-Service Factory: [0x0b921fc8b84656157f5b7ddbf385205d1873a72c](https://arbiscan.io/address/0x0b921fc8b84656157f5b7ddbf385205d1873a72c)
 
 

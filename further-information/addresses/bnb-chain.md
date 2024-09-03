@@ -68,6 +68,8 @@ ElkDEX Factory: [0x31aFfd875e9f68cd6Cd12Cee8943566c9A4bBA13](https://bscscan.com
 
 Farms-as-a-Service Farm Factory: [0xed6e895d9cCf97A23DF0A92F4A3454d3A7C2FDD6](https://bscscan.com/address/0xed6e895d9cCf97A23DF0A92F4A3454d3A7C2FDD6)
 
+Farms-as-a-Service Farm Manager: [0xd85D48CCe64Af59B14946b2793511Eab2c4243a8](https://bscscan.com/address/0xd85D48CCe64Af59B14946b2793511Eab2c4243a8)
+
 Single-Stake-as-a-Service Factory: [0x3ADa56e04DDD5caD6DFD6eD80de6fdE2ce3118FD](https://bscscan.com/address/0x3ADa56e04DDD5caD6DFD6eD80de6fdE2ce3118FD)
 
 ### **Staking Pool**
