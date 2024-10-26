@@ -32,31 +32,31 @@ Use our API to easily query our farms and liquidity pairs:
 
 ## V3 Contract Addresses
 
-ElkDEX V3 Core Factory: [0xC05A5aA56DF0Dc97D6B9849A06627a079790014f](https://etherscan.io/address/0xC05A5aA56DF0Dc97D6B9849A06627a079790014f)
+ElkDEX V3 Core Factory: [0xE8234393E0Ffe32785BD78366be2FfFcE51795b9](https://etherscan.io/address/0xE8234393E0Ffe32785BD78366be2FfFcE51795b9)
 
-Multicall2: [0xf3295f2178762Aa96eDf5e3e30178E60c79B6Ff8](https://etherscan.io/address/0xf3295f2178762Aa96eDf5e3e30178E60c79B6Ff8)
+Multicall2: [0x352D8F40cD62Ffd82d98210FFE2d75584387de05](https://etherscan.io/address/0x352D8F40cD62Ffd82d98210FFE2d75584387de05)
 
-Tick Lens: [0x430638b0710EB36eC68bBF2fcA97085339470701](https://etherscan.io/address/0x430638b0710EB36eC68bBF2fcA97085339470701)
+Tick Lens: [0x793eaB1953e650C422C92ccc8B7e36Cce62bCd04](https://etherscan.io/address/0x793eaB1953e650C422C92ccc8B7e36Cce62bCd04)
 
-Quoter V2: [0xC4b501cf8f974B7e2AeF41B8cF252d5B77cC0e20](https://etherscan.io/address/0xC4b501cf8f974B7e2AeF41B8cF252d5B77cC0e20)
+Quoter V2: [0x5F01387F0C5c1AeD7b86eDD9DA3932984e06999d](https://etherscan.io/address/0x5F01387F0C5c1AeD7b86eDD9DA3932984e06999d)
 
-Quoter: [0xA38D20f9F3DEbb282BdCF130594A25516E9F9e50](https://etherscan.io/address/0xA38D20f9F3DEbb282BdCF130594A25516E9F9e50)
+Quoter: [0x87afFD43eD21B0D73B080Fd5d0b90A46F10A80B7](https://etherscan.io/address/0x87afFD43eD21B0D73B080Fd5d0b90A46F10A80B7)
 
-Proxy Admin: [0x4b094AeCF5598CA868C4470Dc2c99425dA6256f8](https://etherscan.io/address/0x4b094AeCF5598CA868C4470Dc2c99425dA6256f8)
+Proxy Admin: [0xe988B3d66a76d022bEcC75516E1997690D51855f](https://etherscan.io/address/0xe988B3d66a76d022bEcC75516E1997690D51855f)
 
-NFT Descriptor Library V1.3.0: [0x5ad267449556588cBfc5eec5d7FC4057b278E6E2](https://etherscan.io/address/0x5ad267449556588cBfc5eec5d7FC4057b278E6E2)
+NFT Descriptor Library V1.3.0: [0xA25AfE3E1f9f1B317b8C1C277cA59D700EEFA8C5](https://etherscan.io/address/0xA25AfE3E1f9f1B317b8C1C277cA59D700EEFA8C5)
 
-Nonfungible Token Position Descriptor V1.3.0: [0x662643B4fEAaA99b355F8d5B31D91030FB9D9A8C](https://etherscan.io/address/0x662643B4fEAaA99b355F8d5B31D91030FB9D9A8C)
+Nonfungible Token Position Descriptor V1.3.0: [0x26BaB438d10ac10a5f1747a53Ff1Fa3AF984E68f](https://etherscan.io/address/0x26BaB438d10ac10a5f1747a53Ff1Fa3AF984E68f)
 
-Descriptor Proxy: [0x965991775dA1a3550445F76B2aA799eAC0A05434](https://etherscan.io/address/0x965991775dA1a3550445F76B2aA799eAC0A05434)
+Descriptor Proxy: [0xCA4BD724825A228e49257b3e4E1B5637416d830A](https://etherscan.io/address/0xCA4BD724825A228e49257b3e4E1B5637416d830A)
 
-Nonfungible Token Position Manager: [0x9831C93f3024e06db9EEE6a5aDd6e122d18465bE](https://etherscan.io/address/0x9831C93f3024e06db9EEE6a5aDd6e122d18465bE)
+Nonfungible Token Position Manager: [0xBd5bf0Dcc6c61760baAa536d0D17B1d2e358CC27](https://etherscan.io/address/0xBd5bf0Dcc6c61760baAa536d0D17B1d2e358CC27)
 
-ElkDEX V3 Migrator: [0xB50575aC3a84cd7510A10f52dB43aDfaCCfF23bE](https://etherscan.io/address/0xB50575aC3a84cd7510A10f52dB43aDfaCCfF23bE)
+ElkDEX V3 Migrator: [0xe88380Fc1D221916c2F3593eAd78f5316F971D95](https://etherscan.io/address/0xe88380Fc1D221916c2F3593eAd78f5316F971D95)
 
-Swap Router: [0x283F87D2D4A401aa4B31fE60597bd8bA7BdE2221](https://etherscan.io/address/0x283F87D2D4A401aa4B31fE60597bd8bA7BdE2221)
+Swap Router: [0xb2A8B9AcC739FCcf52A382452DCfCEF2338d731B](https://etherscan.io/address/0xb2A8B9AcC739FCcf52A382452DCfCEF2338d731B)
 
-Swap Router 02: [0x7740C2eE0051e275323feb42521cA1161925C2f2](https://etherscan.io/address/0x7740C2eE0051e275323feb42521cA1161925C2f2)
+Swap Router 02: [0x967750742ab55B2e15c100093497b452Aef97b25](https://etherscan.io/address/0x967750742ab55B2e15c100093497b452Aef97b25)
 
 ## V2 Contract Addresses
 
