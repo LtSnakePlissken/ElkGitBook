@@ -1,5 +1,7 @@
 ---
-description: Guides for setting up farms, including links to FaaS on BTTC Testnet
+description: >-
+  Guides for setting up farms. Farm-as-a-Service is live on all ElkNet supported
+  chains.
 ---
 
 # FaaS: Farm-as-a-Service
