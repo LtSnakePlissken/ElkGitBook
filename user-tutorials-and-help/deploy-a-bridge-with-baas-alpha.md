@@ -4,7 +4,7 @@ description: >-
   the BaaS section of the technical documentation before proceeding.
 ---
 
-# Deploy a Bridge with BaaS (Alpha)
+# Deploy a Bridge with BaaS
 
 Here’s a step-by-step guide for launching your own Reservoir style bridge using ElkNet’s BaaS. This means that the deployed bridge will use a reservoir type system, just like the ELK token. We will use the Avalanche C-Chain and Polygon Chain Mainnets in this guide. Feel free to use any of the chains listed below, however. If you would like all contract addresses to be the same on multiple chains, it is very advisable to use a fresh wallet/address and do the same amount of transactions in the same order on all blockchains so the nonces stay the same. It is recommended that you set up your bridge on testnets first if you are concerned about gas.
 
@@ -28,7 +28,10 @@ BaaS is available on the following mainnets:
 * Polygon- Chain ID 137
 * Binance Smart Chain- Chain ID 56
 * Linea- Chain ID 59144
-* Q (Coming Soon)- Chain ID 35441
+* Q- Chain ID 35441
+* Base- Chain ID 8453
+* Arthera- Chain ID 10242
+* Ethereum- Chain ID 1
 
 Contract Addresses on Mainnets above:
 
@@ -42,33 +45,13 @@ Contract Addresses on Mainnets above:
    ![](../.gitbook/assets/image.png)
 3. **Deploy your Token** (Optional)- Navigate to contracts/examples/ERC20Example.sol in Remix, change the token name, symbol, decimals, and total supply if desired. Compile with Solidity version 0.8.19 (may work with later/earlier versions) and 1,000,000 optimizations. After compiling, navigate to the "Deploy & Run Transactions" tab in Remix, ensure "Injected Provider" is selected and that the correct wallet address is displayed, and click "Deploy" and confirm the transaction in your wallet to deploy your token on Avalanche C Chain. Switch your wallet to the Polygon Chain and click "Deploy" again to ensure your token is deployed on both chains. You can repeat this step for as many BaaS supported chains as you'd like. Save your token's contract address. Feel free to compile and deploy your own ERC-20 token or utilize your pre-existing token as well.
 
-<div>
-
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Feel free to change the token's name, symbol, decimal, and supply.</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Compile your ERC-20 Contract</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Screenshot 2023-12-29 201647.png" alt=""><figcaption><p>Deploy your token</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Feel free to change the token's name, symbol, decimal, and supply.</p></figcaption></figure> <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Compile your ERC-20 Contract</p></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot 2023-12-29 201647.png" alt=""><figcaption><p>Deploy your token</p></figcaption></figure></div>
 
 4. **Deploy the Reservoir**- Now that your token is deployed on Polygon and Avalanche, it's time to deploy the Reservoir Contract. In Remix navigate to contracts/examples/ElkReservoirExample.sol, rename ElkReservoirExample in the contract line to something more relevant, compile the contract with Solidity 0.8.19 and 1,000,000 optimizations, and head to the deploy tab. In order to deploy your Reservior, expand the "Deploy" section, input the contract address of your token on the chain you are deploying on for TOKENADDRESS (if you've been following this guide, your contract addresses should be the same on both chains) and a max token limit per transfer in TXLIMIT before pressing "transact" to deploy the contract. Remember to record the contract address for the Reservoir!\
    \
    Note that TXLIMIT takes a uint256 value, meaning that if you deployed a token with 18 decimals and you wanted a max limit of 100 tokens per transfer, you'd have to input 100000000000000000000 (100 with 18 zeros). Note that all deployed contracts will appear in the bottom left side of the "Deploy & Run Transactions" window and you can interact with them using the connected wallet.
 
-<div>
-
-<figure><img src="../.gitbook/assets/Screenshot 2023-12-29 203807.png" alt=""><figcaption><p>Renaming ElkReservoirExample to something more relevant</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Screenshot 2023-12-29 204830.png" alt=""><figcaption><p>Deploy your Reservoir on all chains</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/Screenshot 2023-12-29 203807.png" alt=""><figcaption><p>Renaming ElkReservoirExample to something more relevant</p></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot 2023-12-29 204830.png" alt=""><figcaption><p>Deploy your Reservoir on all chains</p></figcaption></figure></div>
 
 5. **Fund the Reservoir Contract(s)**- Only on Polygon (or if launching on more than 2 chains, do this on all but a single chain) send all tokens to the Reservoir address you created by importing the token you've created into MetaMask, clicking send, and inputting your Reservoir address as the receiver. This will ensure that the Reservoir can send users tokens on Polygon from the Reservoir after bridging from Avalanche. BaaS is also capable of many different bridging methods, but we will be utilizing the Reservoir type in this guide.\
    \
@@ -78,9 +61,9 @@ Contract Addresses on Mainnets above:
     <figure><img src="../.gitbook/assets/image (4).png" alt="" width="267"><figcaption><p>Deploying the Realm</p></figcaption></figure>
 7.  **Deploy Bridge Head Contract**- Navigate to contracts/examples/BridgeHeadExample.sol and change the name of the contract as desired (same as steps 4 and 6), compile the contract with the same settings as the others, and deploy the contract on each chain with:\
     \
-    \-REALMID: The Realm ID provided to you by @LtSnakePlissken or @Baal314 in Telegram\
-    \-BIFROST: The BiFrost contract address listed at the top of this guide\
-    \-RESERVOIR: The contract address of the Reservoir you previously deployed
+    -REALMID: The Realm ID provided to you by @LtSnakePlissken or @Baal314 in Telegram\
+    -BIFROST: The BiFrost contract address listed at the top of this guide\
+    -RESERVOIR: The contract address of the Reservoir you previously deployed
 
     <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Enter the info and hit "transact". Remember to record the contract address of your Realm.</p></figcaption></figure>
 8.  **Enable Transfer to Other Chains**- Expand the Realm contract in the "Deploy & Run Transactions" window, expand "setTargetChainSupported", and enter the ChainID of the chains users can bridge to and set "\_supported" to "1" (for true) and click "transact".\
