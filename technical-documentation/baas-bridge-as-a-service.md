@@ -22,11 +22,17 @@ Currently, BaaS is available on the following testnets:
 
 BaaS is also available on the following mainnets:
 
-* Avalanche
-* Polygon
-* Binance Smart Chain
-* Linea
-* Q
+* Avalanche- Chain ID 43114
+* Polygon- Chain ID 137
+* Binance Smart Chain- Chain ID 56
+* Linea- Chain ID 59144
+* Q- Chain ID 35441
+* Base- Chain ID 8453
+* Arthera- Chain ID 10242
+* Ethereum- Chain ID 1
+* Optimism- Chain ID 10
+* Arbitrum- Chain ID 42161
+* IoTeX- Chain ID 4689
 
 BaaS developers and users are currently not charged any fees for using the service (Elk pays the gas costs on mainnets). Developers may use the service in production, although this is not recommended. Note that if your bridge uses significant gas, we reserve the right to rate-limit or terminate your access.
 
