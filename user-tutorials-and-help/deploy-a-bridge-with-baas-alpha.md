@@ -32,6 +32,9 @@ BaaS is available on the following mainnets:
 * Base- Chain ID 8453
 * Arthera- Chain ID 10242
 * Ethereum- Chain ID 1
+* Optimism- Chain ID 10
+* Arbitrum- Chain ID 42161
+* IoTeX- Chain ID 4689
 
 Contract Addresses on Mainnets above:
 
