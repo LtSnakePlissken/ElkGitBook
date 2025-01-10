@@ -12,7 +12,7 @@ Farm with reduced risk at Elk with Impermanent Loss Protection! [Follow this lin
 
 1. Make sure you have a Defi Crypto Wallet. We recommend [MetaMask](https://metamask.io) (either the mobile app or the desktop extension for your browser) or other multi-chain compatible wallet such as [TokenPocket](https://www.tokenpocket.pro/en/), Brave Wallet, or Elastos Essentials. Make sure you have the funds you need in your DeFi wallet and are connected to the [desired chain](https://docs.elk.finance/tutorials/metamask) in like so:
 
-![If you don’t see the chain you want, you can add it by connecting your wallet to https://rpc.info and clicking the “+” beside the chain, and approving it in your wallet.](https://lh4.googleusercontent.com/KuZ\_eN4GhYdlxwroTelZlJCeykHr7W1WOnNo-Ql\_K7lfo\_6e2N\_xfe991tVOScXfyYgwI3bf1WvLqCZyJ6Y5otXK2eP25BFjAp3ACCWgYr9uoyPhl3l2sOmJOhmpyd8b04ha3we\_)
+![If you don’t see the chain you want, you can add it by connecting your wallet to https://rpc.info and clicking the “+” beside the chain, and approving it in your wallet.](https://lh4.googleusercontent.com/KuZ_eN4GhYdlxwroTelZlJCeykHr7W1WOnNo-Ql_K7lfo_6e2N_xfe991tVOScXfyYgwI3bf1WvLqCZyJ6Y5otXK2eP25BFjAp3ACCWgYr9uoyPhl3l2sOmJOhmpyd8b04ha3we_)
 
 2\. Head to [ElkDEx](https://app.elk.finance/swap) and decide which tokens you would like to farm along with $ELK. If you already know which farm you want to enter and have equal value amounts of both tokens, skip to step 6.
 
@@ -43,5 +43,5 @@ If you are **not** purchasing $ELK with the native chain token (e.g., $AVAX on t
 <figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption><p>Claiming Impermanent Loss Coverages resets your coverage amount to 0, restarting the 42 day vesting period. Please see the link below for more information regarding Imperment Loss Protection.</p></figcaption></figure>
 
 {% hint style="info" %}
-If you click "Withdraw" on that page, you will have the option to withdraw your LP tokens from the farm. Keep in mind that you must also remove your LP tokens from the pool to return them to your wallet. If you don't see your pair on the [pool page](https://app.elk.finance/#/pool/), click "[Import it](https://app.elk.finance/#/find)" and manually select the pair to bring up the option to remove some or all of your liquidity from the pool. Withdrawing and re-depositing also resets your Impermanent Loss Protection coverage (V2 farms only).
+If you click "Withdraw" on that page, you will have the option to withdraw your LP tokens from the farm. Keep in mind that you must also remove your LP tokens from the pool to return them to your wallet. If you don't see your pair on the [pool page](https://app.elk.finance/v2/pool), click "[Import it"](https://app.elk.finance/v2/pool/find) and manually select the pair to bring up the option to remove some or all of your liquidity from the pool. Withdrawing and re-depositing also resets your Impermanent Loss Protection coverage (V2 farms only).
 {% endhint %}
