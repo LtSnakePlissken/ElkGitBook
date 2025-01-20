@@ -8,7 +8,7 @@ ElkPad can be accessed at [https://launchpad.elk.finance](https://launchpad.elk.
 
 #### ElkPad: The Secure and Transparent Launchpad for Your Token
 
-[ElkPad](https://launchpad.elk.finance) is a community launchpad for launching tokens and raising funds, designed to prioritize security, transparency, and ease of use. Unlike platforms like Pump.fun, ElkPad ensures your project launch is more straightforward, fair, and built to inspire confidence in both investors and developers.
+[ElkPad](https://launchpad.elk.finance) is a community launchpad for launching tokens and raising funds, designed to prioritize security, transparency, and ease of use. Unlike other launchpads, ElkPad ensures your project launch is more straightforward, fair, and built to inspire confidence in both investors and developers.
 
 ***
 
@@ -93,7 +93,7 @@ ElkPad fees are clear and fair:
 
 #### Why ElkPad Is Different
 
-Unlike platforms like Pump.fun, ElkPad prioritizes transparency, security, and fairness:
+Unlike other launchpads, ElkPad prioritizes transparency, security, and fairness:
 
 * **Built-In Security**: With renounced ownership, burnt LPs, and 0% tax, your project is safeguarded against malicious practices.
 * **Innovative Fundraising Mechanics**: The 60-minute raise and shrinking hardcap encourage genuine demand without artificial hype.
