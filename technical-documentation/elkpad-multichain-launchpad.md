@@ -4,11 +4,11 @@ description: A Community Launchpad
 
 # ElkPad: Multichain LaunchPad
 
-ElkPad can be accessed at [https://launchpad.elk.finance](https://launchpad.elk.finance)
+ElkPad can be accessed at [https://launchpad.elk.finance](https://launchpad.elk.finance/)
 
 #### ElkPad: The Secure and Transparent Launchpad for Your Token
 
-[ElkPad](https://launchpad.elk.finance) is a community launchpad for launching tokens and raising funds, designed to prioritize security, transparency, and ease of use. Unlike other launchpads, ElkPad ensures your project launch is more straightforward, fair, and built to inspire confidence in both investors and developers.
+[ElkPad](https://launchpad.elk.finance/) is a community launchpad for launching tokens and raising funds, designed to prioritize security, transparency, and ease of use. Unlike other launchpads, ElkPad ensures your project launch is more straightforward, fair, and built to inspire confidence in both investors and developers.
 
 ***
 
