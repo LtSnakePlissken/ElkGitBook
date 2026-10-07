@@ -11,10 +11,7 @@ Here’s a step-by-step guide for launching your own Reservoir style bridge usin
 Currently, BaaS is available on the following testnets:
 
 * Avalanche Fuji-  Chain ID 43113
-* Polygon Mumbai- Chain ID 80001
 * Fantom Testnet- Chain ID 4002
-* Optimism Testnet- Chain ID 420
-* Ethereum Goerli- Chain ID 5
 
 BaaS Contract Addresses on Testnets above:
 
